@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+frontend/dist/
+data/private/
+data/*.sqlite*
+coverage/
+work/
+/backend/local_ai/.deps/

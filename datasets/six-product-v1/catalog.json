@@ -1,0 +1,8 @@
+[
+  {"model_id":"samsung-galaxy-a26-5g","name":"Samsung Galaxy A26 5G","category":"phone","reference_url":"https://www.samsung.com/in/support/model.SM-A266BLGMINS/"},
+  {"model_id":"samsung-galaxy-a36-5g","name":"Samsung Galaxy A36 5G","category":"phone","reference_url":"https://www.samsung.com/in/support/model.SM-A366EZKNINS/"},
+  {"model_id":"samsung-galaxy-a56-5g","name":"Samsung Galaxy A56 5G","category":"phone","reference_url":"https://news.samsung.com/global/samsung-galaxy-a56-5g-galaxy-a36-5g-and-galaxy-a26-5g-are-now-available-worldwide"},
+  {"model_id":"boat-rockerz-450","name":"boAt Rockerz 450","category":"headphones","reference_url":"https://www.boat-lifestyle.com/products/rockerz-450"},
+  {"model_id":"boat-rockerz-550","name":"boAt Rockerz 550","category":"headphones","reference_url":"https://www.boat-lifestyle.com/products/rockerz-550"},
+  {"model_id":"boat-rockerz-650","name":"boAt Rockerz 650","category":"headphones","reference_url":"https://www.boat-lifestyle.com/products/rockerz-650-wireless-headphone"}
+]

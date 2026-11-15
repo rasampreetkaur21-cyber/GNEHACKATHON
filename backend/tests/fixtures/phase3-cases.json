@@ -1,0 +1,426 @@
+{
+  "A": {
+    "input": {
+      "fixtureLabel": "SYNTHETIC TEST ONLY",
+      "claim": {
+        "id": "claim-a",
+        "user_id": "owner-a",
+        "product": "Washing machine",
+        "serial": "WM-A-123",
+        "model": "Wash100",
+        "purchase_date": "2026-01-15",
+        "incident_date": "2026-10-01",
+        "statement": "SYNTHETIC appliance claim: drum stops during normal operation.",
+        "previous_repairs": 0,
+        "claim_value_minor": 25000,
+        "currency": "INR",
+        "synthetic": 1
+      },
+      "registry": {
+        "serial": "WM-A-123",
+        "product": "Washing machine",
+        "model": "Wash100",
+        "purchase_date": "2026-01-15",
+        "service_count": 0,
+        "verified": 1,
+        "source": "SYNTHETIC company registry",
+        "synthetic": 1
+      },
+      "policy": {
+        "id": "policy-a",
+        "product": "Washing machine",
+        "months": 12,
+        "verified": 1,
+        "source": "SYNTHETIC company policy",
+        "synthetic": 1,
+        "auto_approve_limit_minor": 50000,
+        "currency": "INR"
+      },
+      "evidence": [
+        {
+          "id": "invoice-a",
+          "claim_id": "claim-a",
+          "kind": "invoice",
+          "trust_tier": "VERIFIED",
+          "processing_status": "ANALYSIS_COMPLETE",
+          "observations": {
+            "type": "invoice",
+            "seller_name": "SYNTHETIC Authorized Store",
+            "invoice_number": "SYN-INV-A",
+            "invoice_date": "2026-01-15",
+            "product_name": "Washing machine",
+            "product_model": "Wash100",
+            "serial_number": "WM-A-123",
+            "customer_name": "SYNTHETIC Customer A",
+            "gstin": "UNKNOWN",
+            "original_text": "SYNTHETIC test fixture, not an actual invoice.",
+            "unknown_fields": [
+              "gstin"
+            ]
+          },
+          "source_reference": "upload:invoice-a",
+          "mime": "image/jpeg",
+          "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+        },
+        {
+          "id": "photo-a",
+          "claim_id": "claim-a",
+          "kind": "photo",
+          "trust_tier": "VERIFIED",
+          "processing_status": "ANALYSIS_COMPLETE",
+          "observations": {
+            "type": "product_photo",
+            "device_category": "Washing machine",
+            "visible_damage_types": [
+              "NONE_VISIBLE"
+            ],
+            "damage_location": "UNKNOWN",
+            "visible_cracks": "NOT_VISIBLE",
+            "visible_dents": "NOT_VISIBLE",
+            "visible_liquid_contact_indicator": "NOT_VISIBLE",
+            "visible_tamper_signs": "NOT_VISIBLE",
+            "serial_text": "WM-A-123",
+            "model_text": "Wash100",
+            "image_relevance": "RELEVANT",
+            "observable_facts": "SYNTHETIC test observations: appliance exterior visible, no cracks or dents shown.",
+            "unknown_fields": [
+              "damage_location"
+            ]
+          },
+          "source_reference": "upload:photo-a",
+          "mime": "image/jpeg",
+          "sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+        }
+      ],
+      "sellers": [
+        {
+          "id": "seller-a",
+          "seller_name": "SYNTHETIC Authorized Store",
+          "authorized": 1,
+          "verified": 1,
+          "source": "SYNTHETIC seller list",
+          "synthetic": 1
+        }
+      ],
+      "services": [],
+      "diagnostics": [],
+      "links": [],
+      "historyCount": 0,
+      "linkageChecked": true
+    },
+    "expected": "AUTO_APPROVE"
+  },
+  "B": {
+    "input": {
+      "fixtureLabel": "SYNTHETIC TEST ONLY",
+      "claim": {
+        "id": "claim-a",
+        "user_id": "owner-a",
+        "product": "Washing machine",
+        "serial": "WM-A-123",
+        "model": "Wash100",
+        "purchase_date": "2026-01-15",
+        "incident_date": "2026-10-01",
+        "statement": "SYNTHETIC appliance claim: drum stops during normal operation.",
+        "previous_repairs": 0,
+        "claim_value_minor": 25000,
+        "currency": "INR",
+        "synthetic": 1
+      },
+      "registry": {
+        "serial": "WM-A-123",
+        "product": "Washing machine",
+        "model": "Wash100",
+        "purchase_date": "2026-01-15",
+        "service_count": 1,
+        "verified": 1,
+        "source": "SYNTHETIC company registry",
+        "synthetic": 1
+      },
+      "policy": {
+        "id": "policy-a",
+        "product": "Washing machine",
+        "months": 12,
+        "verified": 1,
+        "source": "SYNTHETIC company policy",
+        "synthetic": 1,
+        "auto_approve_limit_minor": 50000,
+        "currency": "INR"
+      },
+      "evidence": [
+        {
+          "id": "invoice-a",
+          "claim_id": "claim-a",
+          "kind": "invoice",
+          "trust_tier": "VERIFIED",
+          "processing_status": "ANALYSIS_COMPLETE",
+          "observations": {
+            "type": "invoice",
+            "seller_name": "SYNTHETIC Authorized Store",
+            "invoice_number": "SYN-INV-A",
+            "invoice_date": "2026-01-15",
+            "product_name": "Washing machine",
+            "product_model": "Wash100",
+            "serial_number": "WM-A-123",
+            "customer_name": "SYNTHETIC Customer A",
+            "gstin": "UNKNOWN",
+            "original_text": "SYNTHETIC test fixture, not an actual invoice.",
+            "unknown_fields": [
+              "gstin"
+            ]
+          },
+          "source_reference": "upload:invoice-a",
+          "mime": "image/jpeg",
+          "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+        },
+        {
+          "id": "photo-a",
+          "claim_id": "claim-a",
+          "kind": "photo",
+          "trust_tier": "VERIFIED",
+          "processing_status": "ANALYSIS_COMPLETE",
+          "observations": {
+            "type": "product_photo",
+            "device_category": "Washing machine",
+            "visible_damage_types": [
+              "NONE_VISIBLE"
+            ],
+            "damage_location": "UNKNOWN",
+            "visible_cracks": "NOT_VISIBLE",
+            "visible_dents": "NOT_VISIBLE",
+            "visible_liquid_contact_indicator": "NOT_VISIBLE",
+            "visible_tamper_signs": "NOT_VISIBLE",
+            "serial_text": "WM-A-123",
+            "model_text": "Wash100",
+            "image_relevance": "RELEVANT",
+            "observable_facts": "SYNTHETIC test observations: appliance exterior visible, no cracks or dents shown.",
+            "unknown_fields": [
+              "damage_location"
+            ]
+          },
+          "source_reference": "upload:photo-a",
+          "mime": "image/jpeg",
+          "sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+        }
+      ],
+      "sellers": [
+        {
+          "id": "seller-a",
+          "seller_name": "SYNTHETIC Authorized Store",
+          "authorized": 1,
+          "verified": 1,
+          "source": "SYNTHETIC seller list",
+          "synthetic": 1
+        }
+      ],
+      "services": [
+        {
+          "id": "service-b",
+          "serial": "WM-A-123",
+          "service_date": "2026-08-20",
+          "authorized": 1,
+          "summary": "SYNTHETIC independently verified previous repair",
+          "verified": 1,
+          "source": "SYNTHETIC company service record",
+          "synthetic": 1
+        }
+      ],
+      "diagnostics": [],
+      "links": [],
+      "historyCount": 0,
+      "linkageChecked": true
+    },
+    "expected": "ESCALATE"
+  },
+  "C": {
+    "input": {
+      "fixtureLabel": "SYNTHETIC TEST ONLY",
+      "claim": {
+        "id": "claim-a",
+        "user_id": "owner-a",
+        "product": "Mobile phone",
+        "serial": "UNKNOWN",
+        "model": "UNKNOWN",
+        "purchase_date": "UNKNOWN",
+        "incident_date": "2026-10-01",
+        "statement": "SYNTHETIC appliance claim: drum stops during normal operation.",
+        "previous_repairs": 0,
+        "claim_value_minor": null,
+        "currency": "INR",
+        "synthetic": 1
+      },
+      "registry": null,
+      "policy": {
+        "id": "policy-a",
+        "product": "Mobile phone",
+        "months": 12,
+        "verified": 1,
+        "source": "SYNTHETIC company policy",
+        "synthetic": 1,
+        "auto_approve_limit_minor": 50000,
+        "currency": "INR"
+      },
+      "evidence": [
+        {
+          "id": "photo-a",
+          "claim_id": "claim-a",
+          "kind": "photo",
+          "trust_tier": "VERIFIED",
+          "processing_status": "ANALYSIS_COMPLETE",
+          "observations": {
+            "type": "product_photo",
+            "device_category": "UNKNOWN",
+            "visible_damage_types": [
+              "NONE_VISIBLE"
+            ],
+            "damage_location": "UNKNOWN",
+            "visible_cracks": "NOT_VISIBLE",
+            "visible_dents": "NOT_VISIBLE",
+            "visible_liquid_contact_indicator": "NOT_VISIBLE",
+            "visible_tamper_signs": "NOT_VISIBLE",
+            "serial_text": "UNKNOWN",
+            "model_text": "UNKNOWN",
+            "image_relevance": "UNKNOWN",
+            "observable_facts": "SYNTHETIC test observations: appliance exterior visible, no cracks or dents shown.",
+            "unknown_fields": [
+              "device_category",
+              "serial_text",
+              "model_text",
+              "image_relevance"
+            ]
+          },
+          "source_reference": "upload:photo-a",
+          "mime": "image/jpeg",
+          "sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+        }
+      ],
+      "sellers": [
+        {
+          "id": "seller-a",
+          "seller_name": "SYNTHETIC Authorized Store",
+          "authorized": 1,
+          "verified": 1,
+          "source": "SYNTHETIC seller list",
+          "synthetic": 1
+        }
+      ],
+      "services": [],
+      "diagnostics": [],
+      "links": [],
+      "historyCount": 0,
+      "linkageChecked": true
+    },
+    "expected": "NEEDS_EVIDENCE"
+  },
+  "D": {
+    "input": {
+      "fixtureLabel": "SYNTHETIC TEST ONLY",
+      "claim": {
+        "id": "claim-a",
+        "user_id": "owner-a",
+        "product": "Washing machine",
+        "serial": "WM-A-123",
+        "model": "Wash100",
+        "purchase_date": "2023-01-15",
+        "incident_date": "2026-10-01",
+        "statement": "SYNTHETIC appliance claim: drum stops during normal operation.",
+        "previous_repairs": 0,
+        "claim_value_minor": 25000,
+        "currency": "INR",
+        "synthetic": 1
+      },
+      "registry": {
+        "serial": "WM-A-123",
+        "product": "Washing machine",
+        "model": "Wash100",
+        "purchase_date": "2023-01-15",
+        "service_count": 0,
+        "verified": 1,
+        "source": "SYNTHETIC company registry",
+        "synthetic": 1
+      },
+      "policy": {
+        "id": "policy-a",
+        "product": "Washing machine",
+        "months": 12,
+        "verified": 1,
+        "source": "SYNTHETIC company policy",
+        "synthetic": 1,
+        "auto_approve_limit_minor": 50000,
+        "currency": "INR"
+      },
+      "evidence": [
+        {
+          "id": "invoice-a",
+          "claim_id": "claim-a",
+          "kind": "invoice",
+          "trust_tier": "VERIFIED",
+          "processing_status": "ANALYSIS_COMPLETE",
+          "observations": {
+            "type": "invoice",
+            "seller_name": "SYNTHETIC Authorized Store",
+            "invoice_number": "SYN-INV-A",
+            "invoice_date": "2023-01-15",
+            "product_name": "Washing machine",
+            "product_model": "Wash100",
+            "serial_number": "WM-A-123",
+            "customer_name": "SYNTHETIC Customer A",
+            "gstin": "UNKNOWN",
+            "original_text": "SYNTHETIC test fixture, not an actual invoice.",
+            "unknown_fields": [
+              "gstin"
+            ]
+          },
+          "source_reference": "upload:invoice-a",
+          "mime": "image/jpeg",
+          "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+        },
+        {
+          "id": "photo-a",
+          "claim_id": "claim-a",
+          "kind": "photo",
+          "trust_tier": "VERIFIED",
+          "processing_status": "ANALYSIS_COMPLETE",
+          "observations": {
+            "type": "product_photo",
+            "device_category": "Washing machine",
+            "visible_damage_types": [
+              "NONE_VISIBLE"
+            ],
+            "damage_location": "UNKNOWN",
+            "visible_cracks": "NOT_VISIBLE",
+            "visible_dents": "NOT_VISIBLE",
+            "visible_liquid_contact_indicator": "NOT_VISIBLE",
+            "visible_tamper_signs": "NOT_VISIBLE",
+            "serial_text": "WM-A-123",
+            "model_text": "Wash100",
+            "image_relevance": "RELEVANT",
+            "observable_facts": "SYNTHETIC test observations: appliance exterior visible, no cracks or dents shown.",
+            "unknown_fields": [
+              "damage_location"
+            ]
+          },
+          "source_reference": "upload:photo-a",
+          "mime": "image/jpeg",
+          "sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+        }
+      ],
+      "sellers": [
+        {
+          "id": "seller-a",
+          "seller_name": "SYNTHETIC Authorized Store",
+          "authorized": 1,
+          "verified": 1,
+          "source": "SYNTHETIC seller list",
+          "synthetic": 1
+        }
+      ],
+      "services": [],
+      "diagnostics": [],
+      "links": [],
+      "historyCount": 0,
+      "linkageChecked": true
+    },
+    "expected": "REJECT_RECOMMENDED"
+  }
+}

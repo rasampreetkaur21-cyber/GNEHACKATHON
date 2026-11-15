@@ -1,0 +1,30 @@
+{
+  "commands": [
+    {
+      "command": "python datasets/six-product-v1/scripts/validate_dataset.py datasets/six-product-v1/data",
+      "exit_code": 0,
+      "stdout": "{\n  \"assets\": 67,\n  \"cases\": 246,\n  \"models\": [\n    \"samsung-galaxy-a26-5g\",\n    \"samsung-galaxy-a36-5g\",\n    \"samsung-galaxy-a56-5g\",\n    \"boat-rockerz-450\",\n    \"boat-rockerz-550\",\n    \"boat-rockerz-650\"\n  ]\n}\n",
+      "stderr": ""
+    },
+    {
+      "command": "python -m unittest discover -s datasets/six-product-v1/tests -v",
+      "exit_code": 0,
+      "stdout": "",
+      "stderr": "test_catalog_is_exactly_six_products (test_dataset.DatasetPolicyTests.test_catalog_is_exactly_six_products) ... ok\ntest_matching_and_cross_model (test_dataset.DatasetPolicyTests.test_matching_and_cross_model) ... ok\ntest_policy_covers_all_selected_models_and_hard_cases (test_dataset.DatasetPolicyTests.test_policy_covers_all_selected_models_and_hard_cases) ... ok\ntest_quality_and_authenticity_escalation (test_dataset.DatasetPolicyTests.test_quality_and_authenticity_escalation) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.001s\n\nOK\n"
+    },
+    {
+      "command": "python backend/scripts/generate-requests.py",
+      "exit_code": 0,
+      "stdout": "Generated 162 frozen image requests; no predicted labels or model metrics were fabricated.\n",
+      "stderr": ""
+    },
+    {
+      "command": "node backend/scripts/benchmark-device-policy.js",
+      "exit_code": 0,
+      "stdout": "{\n  \"evaluation_mode\": \"POLICY_FIXTURES_ONLY\",\n  \"total\": 84,\n  \"matched\": 84,\n  \"not_image_recognition_accuracy\": true,\n  \"image_model_benchmarks\": [\n    {\n      \"model_name\": \"Claude vision (not configured)\",\n      \"status\": \"NOT_RUN\",\n      \"reason\": \"No live provider benchmark was executed. Integration tests use a mock provider.\"\n    }\n  ]\n}\n",
+      "stderr": ""
+    }
+  ],
+  "preserved_inputs_and_legacy_zip": true,
+  "benchmark_requests": 162
+}

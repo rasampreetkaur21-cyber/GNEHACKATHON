@@ -1,0 +1,29 @@
+{
+  "catalog": [
+    "samsung-galaxy-a26-5g",
+    "samsung-galaxy-a36-5g",
+    "samsung-galaxy-a56-5g",
+    "boat-rockerz-450",
+    "boat-rockerz-550",
+    "boat-rockerz-650"
+  ],
+  "upload_rule": "The user chooses one catalog ID and uploads one image. The verifier must inspect that image against the selected ID.",
+  "statuses": {
+    "VALID_MATCH": "The selected model is supported and a linked model identifier or trusted model-specific evidence matches it. Continue claim checks.",
+    "DEVICE_MISMATCH": "The image identifies a different supported catalog model.",
+    "INVALID_DEVICE": "The clear subject is outside the six-product catalog or is unrelated to the selected category.",
+    "UNCLEAR_IMAGE": "Image quality or missing linked evidence prevents a reliable identity decision. Request a new photo.",
+    "HUMAN_REVIEW": "Authenticity, duplicate, edit, replay, registry, or other fraud signal needs review."
+  },
+  "response_shape": {
+    "status": "one of the five status keys",
+    "selected_model_id": "catalog ID",
+    "observed_model_id": "catalog ID or null",
+    "reason_code": "stable machine-readable code",
+    "reason": "short user-facing reason",
+    "next_action": "short user-facing instruction",
+    "confidence": "numeric 0..1 or null",
+    "authenticity": "REAL_UNVERIFIED | SYNTHETIC_SIGNAL | EDIT_SIGNAL | REPLAY_SIGNAL | DUPLICATE_SIGNAL | UNKNOWN"
+  },
+  "identity_limit": "A visual-only photo can suggest category or model family. It must not claim exact model identity or real-world authenticity without linked, readable evidence or a human review path."
+}

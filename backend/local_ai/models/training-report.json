@@ -1,0 +1,105 @@
+{
+  "trained": true,
+  "fine_identity_deployment_enabled": false,
+  "deployment_reason": "Only 5/16 fine-model predictions correct in exploratory leave-one-image-out; exact identity classifier disabled. Coarse category head used only as a supporting signal.",
+  "training_samples": 16,
+  "excluded_generated_samples": 51,
+  "classes": [
+    "samsung-galaxy-a26-5g",
+    "samsung-galaxy-a36-5g",
+    "samsung-galaxy-a56-5g",
+    "unsupported"
+  ],
+  "missing_real_training_classes": [
+    "boat-rockerz-450",
+    "boat-rockerz-550",
+    "boat-rockerz-650"
+  ],
+  "method": "ridge classification head on frozen pretrained CLIP embeddings",
+  "evaluation": "exploratory leave-one-image-out; physical-device independence not established; not frozen-test benchmark",
+  "leave_one_image_out_correct": 5,
+  "leave_one_image_out_total": 16,
+  "rows": [
+    {
+      "asset_id": "commons-a26a",
+      "expected": "samsung-galaxy-a26-5g",
+      "predicted": "samsung-galaxy-a56-5g"
+    },
+    {
+      "asset_id": "commons-a26b",
+      "expected": "samsung-galaxy-a26-5g",
+      "predicted": "samsung-galaxy-a36-5g"
+    },
+    {
+      "asset_id": "commons-a26d",
+      "expected": "samsung-galaxy-a26-5g",
+      "predicted": "samsung-galaxy-a56-5g"
+    },
+    {
+      "asset_id": "commons-a36a",
+      "expected": "samsung-galaxy-a36-5g",
+      "predicted": "samsung-galaxy-a26-5g"
+    },
+    {
+      "asset_id": "commons-a36b",
+      "expected": "samsung-galaxy-a36-5g",
+      "predicted": "samsung-galaxy-a26-5g"
+    },
+    {
+      "asset_id": "commons-a56a",
+      "expected": "samsung-galaxy-a56-5g",
+      "predicted": "samsung-galaxy-a26-5g"
+    },
+    {
+      "asset_id": "commons-a56b",
+      "expected": "samsung-galaxy-a56-5g",
+      "predicted": "unsupported"
+    },
+    {
+      "asset_id": "commons-a56c",
+      "expected": "samsung-galaxy-a56-5g",
+      "predicted": "unsupported"
+    },
+    {
+      "asset_id": "commons-a56d",
+      "expected": "samsung-galaxy-a56-5g",
+      "predicted": "unsupported"
+    },
+    {
+      "asset_id": "commons-a25",
+      "expected": "unsupported",
+      "predicted": "samsung-galaxy-a56-5g"
+    },
+    {
+      "asset_id": "commons-a37",
+      "expected": "unsupported",
+      "predicted": "samsung-galaxy-a56-5g"
+    },
+    {
+      "asset_id": "commons-crack1",
+      "expected": "unsupported",
+      "predicted": "unsupported"
+    },
+    {
+      "asset_id": "commons-crack2",
+      "expected": "unsupported",
+      "predicted": "unsupported"
+    },
+    {
+      "asset_id": "commons-tablet",
+      "expected": "unsupported",
+      "predicted": "unsupported"
+    },
+    {
+      "asset_id": "commons-sony",
+      "expected": "unsupported",
+      "predicted": "unsupported"
+    },
+    {
+      "asset_id": "commons-mug",
+      "expected": "unsupported",
+      "predicted": "unsupported"
+    }
+  ],
+  "limits": "Small reference corpus. Classifier hints must never independently verify exact identity or approve warranty claims."
+}

@@ -1,0 +1,20 @@
+{
+  "full_suite": {
+    "passed": 392,
+    "failed": 1,
+    "failure": "local inference timeout"
+  },
+  "isolated_local_rerun": {
+    "passed": 5,
+    "failed": 0
+  },
+  "final_focused": {
+    "passed": 24,
+    "failed": 0
+  },
+  "build": "passed",
+  "browser_scheduled_invitation": "received and accepted",
+  "browser_rtc": "connected with labeled synthetic video",
+  "physical_camera": "not verified",
+  "cross_network_turn": "not verified"
+}

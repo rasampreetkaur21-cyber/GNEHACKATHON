@@ -1,0 +1,4352 @@
+[
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-650-missing-evidence",
+    "scenario": "missing-evidence",
+    "claim": {
+      "catalog_id": "boat-rockerz-650",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-650-11-60AEFA7F",
+      "purchase_date": "2024-07-27",
+      "incident_date": "2024-09-24",
+      "statement": "SYNTHETIC demo case. Audio intermittently drops in one earcup during playback.",
+      "previous_repairs": 0,
+      "claim_value_minor": 7102,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device photo without identifying evidence.",
+          "observed_brand": "boAt",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "NONE",
+          "identifier_linked_to_pictured_device": "UNKNOWN",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-650-box-only",
+    "scenario": "box-only",
+    "claim": {
+      "catalog_id": "boat-rockerz-650",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-650-10-0FB26341",
+      "purchase_date": "2025-05-28",
+      "incident_date": "2025-08-20",
+      "statement": "SYNTHETIC demo case. The power button intermittently fails to start the headphones.",
+      "previous_repairs": 1,
+      "claim_value_minor": 12675,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a retail box with a readable model name.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 650",
+          "identifying_evidence_kind": "BOX",
+          "identifier_linked_to_pictured_device": "NO",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-650-10-0FB26341",
+          "invoice_date": "2025-05-28",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 650",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-650-10-0FB26341",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-550-another-wrong-label",
+    "scenario": "another-wrong-label",
+    "claim": {
+      "catalog_id": "boat-rockerz-550",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-550-8-3EAE3FA9",
+      "purchase_date": "2024-02-10",
+      "incident_date": "2024-05-24",
+      "statement": "SYNTHETIC demo case. The power button intermittently fails to start the headphones.",
+      "previous_repairs": 0,
+      "claim_value_minor": 13911,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 450",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-550-8-3EAE3FA9",
+          "invoice_date": "2024-02-10",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 550",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-550-8-3EAE3FA9",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-450-same-brand-swap",
+    "scenario": "same-brand-swap",
+    "claim": {
+      "catalog_id": "boat-rockerz-450",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-450-5-3F7D2114",
+      "purchase_date": "2024-12-15",
+      "incident_date": "2025-02-12",
+      "statement": "SYNTHETIC demo case. The power button intermittently fails to start the headphones.",
+      "previous_repairs": 1,
+      "claim_value_minor": 7888,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-BOAT-ROCKERZ-450-5-3F7D2114-ALT",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 550",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-450-5-3F7D2114",
+          "invoice_date": "2024-12-15",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 450",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-450-5-3F7D2114",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-450-another-wrong-label",
+    "scenario": "another-wrong-label",
+    "claim": {
+      "catalog_id": "boat-rockerz-450",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-450-8-0F71D1D8",
+      "purchase_date": "2025-07-06",
+      "incident_date": "2025-12-26",
+      "statement": "SYNTHETIC demo case. The power button intermittently fails to start the headphones.",
+      "previous_repairs": 1,
+      "claim_value_minor": 9107,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 550",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-450-8-0F71D1D8",
+          "invoice_date": "2025-07-06",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 450",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-450-8-0F71D1D8",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-550-box-only",
+    "scenario": "box-only",
+    "claim": {
+      "catalog_id": "boat-rockerz-550",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-550-10-6171DA10",
+      "purchase_date": "2025-06-23",
+      "incident_date": "2025-12-07",
+      "statement": "SYNTHETIC demo case. Audio intermittently drops in one earcup during playback.",
+      "previous_repairs": 0,
+      "claim_value_minor": 9516,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a retail box with a readable model name.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 550",
+          "identifying_evidence_kind": "BOX",
+          "identifier_linked_to_pictured_device": "NO",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-550-10-6171DA10",
+          "invoice_date": "2025-06-23",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 550",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-550-10-6171DA10",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a36-5g-matching-second-label",
+    "scenario": "matching-second-label",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a36-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-3-F90937F2",
+      "purchase_date": "2024-01-13",
+      "incident_date": "2024-09-08",
+      "statement": "SYNTHETIC demo case. The charging port loses connection during normal charging.",
+      "previous_repairs": 1,
+      "claim_value_minor": 11179,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-3-F90937F2",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of the model marking on the underside of the device.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A36 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A36-5G-3-F90937F2",
+          "invoice_date": "2024-01-13",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A36 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-3-F90937F2",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a36-5g-matching-without-photo-serial",
+    "scenario": "matching-without-photo-serial",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a36-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-4-17BC8868",
+      "purchase_date": "2025-07-17",
+      "incident_date": "2026-02-20",
+      "statement": "SYNTHETIC demo case. The camera app consistently fails to open.",
+      "previous_repairs": 0,
+      "claim_value_minor": 12597,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A36 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A36-5G-4-17BC8868",
+          "invoice_date": "2025-07-17",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A36 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-4-17BC8868",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a36-5g-serial-discrepancy",
+    "scenario": "serial-discrepancy",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a36-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-12-BF879521",
+      "purchase_date": "2024-12-15",
+      "incident_date": "2025-01-05",
+      "statement": "SYNTHETIC demo case. The touchscreen intermittently stops responding to input.",
+      "previous_repairs": 0,
+      "claim_value_minor": 6361,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-12-BF879521-ALT",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A36 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A36-5G-12-BF879521",
+          "invoice_date": "2024-12-15",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A36 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-12-BF879521",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a26-5g-box-only",
+    "scenario": "box-only",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a26-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-10-CEC8C954",
+      "purchase_date": "2024-09-12",
+      "incident_date": "2025-01-27",
+      "statement": "SYNTHETIC demo case. The camera app consistently fails to open.",
+      "previous_repairs": 0,
+      "claim_value_minor": 7097,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a retail box with a readable model name.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A26 5G",
+          "identifying_evidence_kind": "BOX",
+          "identifier_linked_to_pictured_device": "NO",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A26-5G-10-CEC8C954",
+          "invoice_date": "2024-09-12",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A26 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-10-CEC8C954",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a36-5g-matching-label",
+    "scenario": "matching-label",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a36-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-1-C060F776",
+      "purchase_date": "2025-05-31",
+      "incident_date": "2025-12-29",
+      "statement": "SYNTHETIC demo case. The camera app consistently fails to open.",
+      "previous_repairs": 0,
+      "claim_value_minor": 12893,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-1-C060F776",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A36 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A36-5G-1-C060F776",
+          "invoice_date": "2025-05-31",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A36 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-1-C060F776",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a26-5g-ambiguous-photo",
+    "scenario": "ambiguous-photo",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a26-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-9-EDFC9A3E",
+      "purchase_date": "2024-01-20",
+      "incident_date": "2024-05-23",
+      "statement": "SYNTHETIC demo case. The charging port loses connection during normal charging.",
+      "previous_repairs": 0,
+      "claim_value_minor": 11612,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a partly obscured device label.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "UNKNOWN",
+          "image_quality": "AMBIGUOUS",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A26-5G-9-EDFC9A3E",
+          "invoice_date": "2024-01-20",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A26 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-9-EDFC9A3E",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a56-5g-missing-evidence",
+    "scenario": "missing-evidence",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a56-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-11-67A96340",
+      "purchase_date": "2025-03-13",
+      "incident_date": "2025-04-07",
+      "statement": "SYNTHETIC demo case. The camera app consistently fails to open.",
+      "previous_repairs": 0,
+      "claim_value_minor": 6773,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device photo without identifying evidence.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "NONE",
+          "identifier_linked_to_pictured_device": "UNKNOWN",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a56-5g-matching-alias",
+    "scenario": "matching-alias",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a56-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-2-AB272E2D",
+      "purchase_date": "2024-01-31",
+      "incident_date": "2024-06-06",
+      "statement": "SYNTHETIC demo case. The camera app consistently fails to open.",
+      "previous_repairs": 0,
+      "claim_value_minor": 8923,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-2-AB272E2D",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "SM-A566E",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A56-5G-2-AB272E2D",
+          "invoice_date": "2024-01-31",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A56 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-2-AB272E2D",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-550-missing-evidence",
+    "scenario": "missing-evidence",
+    "claim": {
+      "catalog_id": "boat-rockerz-550",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-550-11-99F8FC16",
+      "purchase_date": "2025-07-15",
+      "incident_date": "2025-11-27",
+      "statement": "SYNTHETIC demo case. Audio intermittently drops in one earcup during playback.",
+      "previous_repairs": 0,
+      "claim_value_minor": 11618,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device photo without identifying evidence.",
+          "observed_brand": "boAt",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "NONE",
+          "identifier_linked_to_pictured_device": "UNKNOWN",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a26-5g-matching-label",
+    "scenario": "matching-label",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a26-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-1-7ADFA411",
+      "purchase_date": "2025-01-22",
+      "incident_date": "2025-03-19",
+      "statement": "SYNTHETIC demo case. The charging port loses connection during normal charging.",
+      "previous_repairs": 0,
+      "claim_value_minor": 10867,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-1-7ADFA411",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A26 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A26-5G-1-7ADFA411",
+          "invoice_date": "2025-01-22",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A26 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-1-7ADFA411",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a26-5g-matching-second-label",
+    "scenario": "matching-second-label",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a26-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-3-83C2F21D",
+      "purchase_date": "2024-06-05",
+      "incident_date": "2025-01-10",
+      "statement": "SYNTHETIC demo case. The camera app consistently fails to open.",
+      "previous_repairs": 1,
+      "claim_value_minor": 8682,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-3-83C2F21D",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of the model marking on the underside of the device.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A26 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A26-5G-3-83C2F21D",
+          "invoice_date": "2024-06-05",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A26 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-3-83C2F21D",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-650-cross-category",
+    "scenario": "cross-category",
+    "claim": {
+      "catalog_id": "boat-rockerz-650",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-650-6-384D265F",
+      "purchase_date": "2025-01-07",
+      "incident_date": "2025-02-14",
+      "statement": "SYNTHETIC demo case. The charging indicator stays dark after connecting the cable.",
+      "previous_repairs": 1,
+      "claim_value_minor": 7297,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A26 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-650-6-384D265F",
+          "invoice_date": "2025-01-07",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 650",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-650-6-384D265F",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a56-5g-matching-second-label",
+    "scenario": "matching-second-label",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a56-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-3-150C170B",
+      "purchase_date": "2024-08-26",
+      "incident_date": "2025-01-13",
+      "statement": "SYNTHETIC demo case. The touchscreen intermittently stops responding to input.",
+      "previous_repairs": 1,
+      "claim_value_minor": 12674,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-3-150C170B",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of the model marking on the underside of the device.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A56 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A56-5G-3-150C170B",
+          "invoice_date": "2024-08-26",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A56 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-3-150C170B",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-450-cross-category",
+    "scenario": "cross-category",
+    "claim": {
+      "catalog_id": "boat-rockerz-450",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-450-6-96D64D11",
+      "purchase_date": "2025-05-31",
+      "incident_date": "2025-08-12",
+      "statement": "SYNTHETIC demo case. The charging indicator stays dark after connecting the cable.",
+      "previous_repairs": 0,
+      "claim_value_minor": 8963,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A26 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-450-6-96D64D11",
+          "invoice_date": "2025-05-31",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 450",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-450-6-96D64D11",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-550-ambiguous-photo",
+    "scenario": "ambiguous-photo",
+    "claim": {
+      "catalog_id": "boat-rockerz-550",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-550-9-7CEF22DA",
+      "purchase_date": "2024-06-18",
+      "incident_date": "2025-01-26",
+      "statement": "SYNTHETIC demo case. The microphone stops picking up sound during calls.",
+      "previous_repairs": 0,
+      "claim_value_minor": 13410,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a partly obscured device label.",
+          "observed_brand": "boAt",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "UNKNOWN",
+          "image_quality": "AMBIGUOUS",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-550-9-7CEF22DA",
+          "invoice_date": "2024-06-18",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 550",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-550-9-7CEF22DA",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a36-5g-another-wrong-label",
+    "scenario": "another-wrong-label",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a36-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-8-049B9D92",
+      "purchase_date": "2025-07-04",
+      "incident_date": "2026-01-26",
+      "statement": "SYNTHETIC demo case. The device shuts off unexpectedly with battery power remaining.",
+      "previous_repairs": 0,
+      "claim_value_minor": 5802,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A26 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A36-5G-8-049B9D92",
+          "invoice_date": "2025-07-04",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A36 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-8-049B9D92",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a56-5g-another-wrong-label",
+    "scenario": "another-wrong-label",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a56-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-8-D1BE612B",
+      "purchase_date": "2024-05-27",
+      "incident_date": "2024-08-14",
+      "statement": "SYNTHETIC demo case. The charging port loses connection during normal charging.",
+      "previous_repairs": 1,
+      "claim_value_minor": 12382,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A26 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A56-5G-8-D1BE612B",
+          "invoice_date": "2024-05-27",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A56 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-8-D1BE612B",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a56-5g-matching-label",
+    "scenario": "matching-label",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a56-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-1-3954C55F",
+      "purchase_date": "2024-05-06",
+      "incident_date": "2024-07-29",
+      "statement": "SYNTHETIC demo case. The touchscreen intermittently stops responding to input.",
+      "previous_repairs": 0,
+      "claim_value_minor": 6511,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-1-3954C55F",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A56 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A56-5G-1-3954C55F",
+          "invoice_date": "2024-05-06",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A56 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-1-3954C55F",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a26-5g-missing-evidence",
+    "scenario": "missing-evidence",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a26-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-11-62584C3A",
+      "purchase_date": "2025-07-01",
+      "incident_date": "2026-01-20",
+      "statement": "SYNTHETIC demo case. The camera app consistently fails to open.",
+      "previous_repairs": 0,
+      "claim_value_minor": 5397,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device photo without identifying evidence.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "NONE",
+          "identifier_linked_to_pictured_device": "UNKNOWN",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a56-5g-cross-category",
+    "scenario": "cross-category",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a56-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-6-627356A0",
+      "purchase_date": "2025-02-20",
+      "incident_date": "2025-03-17",
+      "statement": "SYNTHETIC demo case. The touchscreen intermittently stops responding to input.",
+      "previous_repairs": 0,
+      "claim_value_minor": 11580,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 450",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A56-5G-6-627356A0",
+          "invoice_date": "2025-02-20",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A56 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-6-627356A0",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-550-same-brand-swap",
+    "scenario": "same-brand-swap",
+    "claim": {
+      "catalog_id": "boat-rockerz-550",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-550-5-7C551F15",
+      "purchase_date": "2024-11-16",
+      "incident_date": "2025-04-25",
+      "statement": "SYNTHETIC demo case. The power button intermittently fails to start the headphones.",
+      "previous_repairs": 0,
+      "claim_value_minor": 11358,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-BOAT-ROCKERZ-550-5-7C551F15-ALT",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 450",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-550-5-7C551F15",
+          "invoice_date": "2024-11-16",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 550",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-550-5-7C551F15",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-450-box-only",
+    "scenario": "box-only",
+    "claim": {
+      "catalog_id": "boat-rockerz-450",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-450-10-BF274F83",
+      "purchase_date": "2024-08-25",
+      "incident_date": "2025-03-02",
+      "statement": "SYNTHETIC demo case. The microphone stops picking up sound during calls.",
+      "previous_repairs": 1,
+      "claim_value_minor": 7587,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a retail box with a readable model name.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 450",
+          "identifying_evidence_kind": "BOX",
+          "identifier_linked_to_pictured_device": "NO",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-450-10-BF274F83",
+          "invoice_date": "2024-08-25",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 450",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-450-10-BF274F83",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-550-matching-without-photo-serial",
+    "scenario": "matching-without-photo-serial",
+    "claim": {
+      "catalog_id": "boat-rockerz-550",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-550-4-D837A987",
+      "purchase_date": "2025-08-30",
+      "incident_date": "2025-11-06",
+      "statement": "SYNTHETIC demo case. The charging indicator stays dark after connecting the cable.",
+      "previous_repairs": 0,
+      "claim_value_minor": 3425,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 550",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-550-4-D837A987",
+          "invoice_date": "2025-08-30",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 550",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-550-4-D837A987",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a26-5g-matching-without-photo-serial",
+    "scenario": "matching-without-photo-serial",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a26-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-4-28650F7B",
+      "purchase_date": "2024-02-11",
+      "incident_date": "2024-08-05",
+      "statement": "SYNTHETIC demo case. The touchscreen intermittently stops responding to input.",
+      "previous_repairs": 0,
+      "claim_value_minor": 13049,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A26 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A26-5G-4-28650F7B",
+          "invoice_date": "2024-02-11",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A26 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-4-28650F7B",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-450-unrelated-image",
+    "scenario": "unrelated-image",
+    "claim": {
+      "catalog_id": "boat-rockerz-450",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-450-7-3E6754E2",
+      "purchase_date": "2025-07-07",
+      "incident_date": "2025-11-09",
+      "statement": "SYNTHETIC demo case. The microphone stops picking up sound during calls.",
+      "previous_repairs": 0,
+      "claim_value_minor": 3010,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "UNKNOWN",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "IRRELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a landscape without a device.",
+          "observed_brand": "UNKNOWN",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "NONE",
+          "identifier_linked_to_pictured_device": "NO",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-450-7-3E6754E2",
+          "invoice_date": "2025-07-07",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 450",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-450-7-3E6754E2",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-450-ambiguous-photo",
+    "scenario": "ambiguous-photo",
+    "claim": {
+      "catalog_id": "boat-rockerz-450",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-450-9-9FC68E65",
+      "purchase_date": "2024-08-23",
+      "incident_date": "2024-11-22",
+      "statement": "SYNTHETIC demo case. The headphones disconnect while playing audio nearby.",
+      "previous_repairs": 0,
+      "claim_value_minor": 5705,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a partly obscured device label.",
+          "observed_brand": "boAt",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "UNKNOWN",
+          "image_quality": "AMBIGUOUS",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-450-9-9FC68E65",
+          "invoice_date": "2024-08-23",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 450",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-450-9-9FC68E65",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-550-cross-category",
+    "scenario": "cross-category",
+    "claim": {
+      "catalog_id": "boat-rockerz-550",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-550-6-AD83F476",
+      "purchase_date": "2024-11-13",
+      "incident_date": "2025-02-10",
+      "statement": "SYNTHETIC demo case. The headphones disconnect while playing audio nearby.",
+      "previous_repairs": 1,
+      "claim_value_minor": 11633,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A26 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-550-6-AD83F476",
+          "invoice_date": "2024-11-13",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 550",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-550-6-AD83F476",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a36-5g-ambiguous-photo",
+    "scenario": "ambiguous-photo",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a36-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-9-C02108C7",
+      "purchase_date": "2024-01-08",
+      "incident_date": "2024-07-21",
+      "statement": "SYNTHETIC demo case. The charging port loses connection during normal charging.",
+      "previous_repairs": 0,
+      "claim_value_minor": 5142,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a partly obscured device label.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "UNKNOWN",
+          "image_quality": "AMBIGUOUS",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A36-5G-9-C02108C7",
+          "invoice_date": "2024-01-08",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A36 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-9-C02108C7",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-650-matching-label",
+    "scenario": "matching-label",
+    "claim": {
+      "catalog_id": "boat-rockerz-650",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-650-1-14700A92",
+      "purchase_date": "2025-08-29",
+      "incident_date": "2025-12-28",
+      "statement": "SYNTHETIC demo case. The microphone stops picking up sound during calls.",
+      "previous_repairs": 0,
+      "claim_value_minor": 11196,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-BOAT-ROCKERZ-650-1-14700A92",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 650",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-650-1-14700A92",
+          "invoice_date": "2025-08-29",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 650",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-650-1-14700A92",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a56-5g-box-only",
+    "scenario": "box-only",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a56-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-10-6C469D8A",
+      "purchase_date": "2024-06-12",
+      "incident_date": "2025-02-10",
+      "statement": "SYNTHETIC demo case. The camera app consistently fails to open.",
+      "previous_repairs": 0,
+      "claim_value_minor": 7874,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a retail box with a readable model name.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A56 5G",
+          "identifying_evidence_kind": "BOX",
+          "identifier_linked_to_pictured_device": "NO",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A56-5G-10-6C469D8A",
+          "invoice_date": "2024-06-12",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A56 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-10-6C469D8A",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-650-ambiguous-photo",
+    "scenario": "ambiguous-photo",
+    "claim": {
+      "catalog_id": "boat-rockerz-650",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-650-9-F7C18913",
+      "purchase_date": "2024-07-20",
+      "incident_date": "2024-08-22",
+      "statement": "SYNTHETIC demo case. The power button intermittently fails to start the headphones.",
+      "previous_repairs": 0,
+      "claim_value_minor": 12646,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a partly obscured device label.",
+          "observed_brand": "boAt",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "UNKNOWN",
+          "image_quality": "AMBIGUOUS",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-650-9-F7C18913",
+          "invoice_date": "2024-07-20",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 650",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-650-9-F7C18913",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-550-matching-second-label",
+    "scenario": "matching-second-label",
+    "claim": {
+      "catalog_id": "boat-rockerz-550",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-550-3-E4CC6689",
+      "purchase_date": "2024-07-16",
+      "incident_date": "2024-11-26",
+      "statement": "SYNTHETIC demo case. The microphone stops picking up sound during calls.",
+      "previous_repairs": 1,
+      "claim_value_minor": 13394,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-BOAT-ROCKERZ-550-3-E4CC6689",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of the model marking on the underside of the device.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 550",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-550-3-E4CC6689",
+          "invoice_date": "2024-07-16",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 550",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-550-3-E4CC6689",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-450-matching-label",
+    "scenario": "matching-label",
+    "claim": {
+      "catalog_id": "boat-rockerz-450",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-450-1-5ECFF89C",
+      "purchase_date": "2024-05-03",
+      "incident_date": "2024-05-19",
+      "statement": "SYNTHETIC demo case. The power button intermittently fails to start the headphones.",
+      "previous_repairs": 0,
+      "claim_value_minor": 6482,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-BOAT-ROCKERZ-450-1-5ECFF89C",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 450",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-450-1-5ECFF89C",
+          "invoice_date": "2024-05-03",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 450",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-450-1-5ECFF89C",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a56-5g-same-brand-swap",
+    "scenario": "same-brand-swap",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a56-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-5-2B1A5AF7",
+      "purchase_date": "2025-06-01",
+      "incident_date": "2025-08-22",
+      "statement": "SYNTHETIC demo case. The touchscreen intermittently stops responding to input.",
+      "previous_repairs": 1,
+      "claim_value_minor": 12252,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-5-2B1A5AF7-ALT",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A26 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A56-5G-5-2B1A5AF7",
+          "invoice_date": "2025-06-01",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A56 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-5-2B1A5AF7",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a56-5g-serial-discrepancy",
+    "scenario": "serial-discrepancy",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a56-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-12-68C3FFC6",
+      "purchase_date": "2025-02-05",
+      "incident_date": "2025-07-11",
+      "statement": "SYNTHETIC demo case. The touchscreen intermittently stops responding to input.",
+      "previous_repairs": 1,
+      "claim_value_minor": 12961,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-12-68C3FFC6-ALT",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A56 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A56-5G-12-68C3FFC6",
+          "invoice_date": "2025-02-05",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A56 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-12-68C3FFC6",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-650-matching-second-label",
+    "scenario": "matching-second-label",
+    "claim": {
+      "catalog_id": "boat-rockerz-650",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-650-3-E84C2A4E",
+      "purchase_date": "2024-11-22",
+      "incident_date": "2025-02-05",
+      "statement": "SYNTHETIC demo case. The headphones disconnect while playing audio nearby.",
+      "previous_repairs": 1,
+      "claim_value_minor": 13733,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-BOAT-ROCKERZ-650-3-E84C2A4E",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of the model marking on the underside of the device.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 650",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-650-3-E84C2A4E",
+          "invoice_date": "2024-11-22",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 650",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-650-3-E84C2A4E",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-650-serial-discrepancy",
+    "scenario": "serial-discrepancy",
+    "claim": {
+      "catalog_id": "boat-rockerz-650",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-650-12-DD58D24D",
+      "purchase_date": "2024-09-15",
+      "incident_date": "2024-11-25",
+      "statement": "SYNTHETIC demo case. The power button intermittently fails to start the headphones.",
+      "previous_repairs": 0,
+      "claim_value_minor": 3056,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-BOAT-ROCKERZ-650-12-DD58D24D-ALT",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 650",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-650-12-DD58D24D",
+          "invoice_date": "2024-09-15",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 650",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-650-12-DD58D24D",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-650-same-brand-swap",
+    "scenario": "same-brand-swap",
+    "claim": {
+      "catalog_id": "boat-rockerz-650",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-650-5-4968774A",
+      "purchase_date": "2024-05-31",
+      "incident_date": "2024-06-20",
+      "statement": "SYNTHETIC demo case. The headphones disconnect while playing audio nearby.",
+      "previous_repairs": 0,
+      "claim_value_minor": 12174,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-BOAT-ROCKERZ-650-5-4968774A-ALT",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 550",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-650-5-4968774A",
+          "invoice_date": "2024-05-31",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 650",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-650-5-4968774A",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-650-matching-without-photo-serial",
+    "scenario": "matching-without-photo-serial",
+    "claim": {
+      "catalog_id": "boat-rockerz-650",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-650-4-6B8784E4",
+      "purchase_date": "2025-03-04",
+      "incident_date": "2025-07-16",
+      "statement": "SYNTHETIC demo case. The charging indicator stays dark after connecting the cable.",
+      "previous_repairs": 1,
+      "claim_value_minor": 6171,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 650",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-650-4-6B8784E4",
+          "invoice_date": "2025-03-04",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 650",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-650-4-6B8784E4",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-450-serial-discrepancy",
+    "scenario": "serial-discrepancy",
+    "claim": {
+      "catalog_id": "boat-rockerz-450",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-450-12-4FD21DEF",
+      "purchase_date": "2025-08-18",
+      "incident_date": "2025-12-26",
+      "statement": "SYNTHETIC demo case. The charging indicator stays dark after connecting the cable.",
+      "previous_repairs": 0,
+      "claim_value_minor": 2896,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-BOAT-ROCKERZ-450-12-4FD21DEF-ALT",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 450",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-450-12-4FD21DEF",
+          "invoice_date": "2025-08-18",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 450",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-450-12-4FD21DEF",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-650-matching-alias",
+    "scenario": "matching-alias",
+    "claim": {
+      "catalog_id": "boat-rockerz-650",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-650-2-125AFE08",
+      "purchase_date": "2024-05-27",
+      "incident_date": "2024-09-07",
+      "statement": "SYNTHETIC demo case. The microphone stops picking up sound during calls.",
+      "previous_repairs": 1,
+      "claim_value_minor": 7964,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-BOAT-ROCKERZ-650-2-125AFE08",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "boAt Rockerz 650",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-650-2-125AFE08",
+          "invoice_date": "2024-05-27",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 650",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-650-2-125AFE08",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-550-matching-alias",
+    "scenario": "matching-alias",
+    "claim": {
+      "catalog_id": "boat-rockerz-550",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-550-2-A638629B",
+      "purchase_date": "2025-05-09",
+      "incident_date": "2025-11-16",
+      "statement": "SYNTHETIC demo case. The microphone stops picking up sound during calls.",
+      "previous_repairs": 1,
+      "claim_value_minor": 3511,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-BOAT-ROCKERZ-550-2-A638629B",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "boAt Rockerz 550",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-550-2-A638629B",
+          "invoice_date": "2025-05-09",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 550",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-550-2-A638629B",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-550-serial-discrepancy",
+    "scenario": "serial-discrepancy",
+    "claim": {
+      "catalog_id": "boat-rockerz-550",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-550-12-D9506E6C",
+      "purchase_date": "2024-03-06",
+      "incident_date": "2024-07-14",
+      "statement": "SYNTHETIC demo case. The power button intermittently fails to start the headphones.",
+      "previous_repairs": 0,
+      "claim_value_minor": 7974,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-BOAT-ROCKERZ-550-12-D9506E6C-ALT",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 550",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-550-12-D9506E6C",
+          "invoice_date": "2024-03-06",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 550",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-550-12-D9506E6C",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a26-5g-cross-category",
+    "scenario": "cross-category",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a26-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-6-D508D29A",
+      "purchase_date": "2024-03-28",
+      "incident_date": "2024-11-25",
+      "statement": "SYNTHETIC demo case. The charging port loses connection during normal charging.",
+      "previous_repairs": 0,
+      "claim_value_minor": 12634,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 550",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A26-5G-6-D508D29A",
+          "invoice_date": "2024-03-28",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A26 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-6-D508D29A",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a36-5g-box-only",
+    "scenario": "box-only",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a36-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-10-CC3F7455",
+      "purchase_date": "2024-06-09",
+      "incident_date": "2024-06-24",
+      "statement": "SYNTHETIC demo case. The charging port loses connection during normal charging.",
+      "previous_repairs": 1,
+      "claim_value_minor": 2998,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a retail box with a readable model name.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A36 5G",
+          "identifying_evidence_kind": "BOX",
+          "identifier_linked_to_pictured_device": "NO",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A36-5G-10-CC3F7455",
+          "invoice_date": "2024-06-09",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A36 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-10-CC3F7455",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a56-5g-unrelated-image",
+    "scenario": "unrelated-image",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a56-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-7-9FBC394D",
+      "purchase_date": "2025-08-23",
+      "incident_date": "2026-03-15",
+      "statement": "SYNTHETIC demo case. The screen intermittently goes blank during ordinary use.",
+      "previous_repairs": 1,
+      "claim_value_minor": 10174,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "UNKNOWN",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "IRRELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a landscape without a device.",
+          "observed_brand": "UNKNOWN",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "NONE",
+          "identifier_linked_to_pictured_device": "NO",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A56-5G-7-9FBC394D",
+          "invoice_date": "2025-08-23",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A56 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-7-9FBC394D",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a36-5g-cross-category",
+    "scenario": "cross-category",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a36-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-6-04826BD3",
+      "purchase_date": "2025-09-06",
+      "incident_date": "2026-02-21",
+      "statement": "SYNTHETIC demo case. The charging port loses connection during normal charging.",
+      "previous_repairs": 0,
+      "claim_value_minor": 8628,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 650",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A36-5G-6-04826BD3",
+          "invoice_date": "2025-09-06",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A36 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-6-04826BD3",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-450-missing-evidence",
+    "scenario": "missing-evidence",
+    "claim": {
+      "catalog_id": "boat-rockerz-450",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-450-11-7FF82A31",
+      "purchase_date": "2025-04-14",
+      "incident_date": "2025-09-08",
+      "statement": "SYNTHETIC demo case. The charging indicator stays dark after connecting the cable.",
+      "previous_repairs": 1,
+      "claim_value_minor": 3497,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device photo without identifying evidence.",
+          "observed_brand": "boAt",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "NONE",
+          "identifier_linked_to_pictured_device": "UNKNOWN",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-450-matching-second-label",
+    "scenario": "matching-second-label",
+    "claim": {
+      "catalog_id": "boat-rockerz-450",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-450-3-F07C3938",
+      "purchase_date": "2024-12-06",
+      "incident_date": "2025-02-11",
+      "statement": "SYNTHETIC demo case. The headphones disconnect while playing audio nearby.",
+      "previous_repairs": 1,
+      "claim_value_minor": 2243,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-BOAT-ROCKERZ-450-3-F07C3938",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of the model marking on the underside of the device.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 450",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-450-3-F07C3938",
+          "invoice_date": "2024-12-06",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 450",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-450-3-F07C3938",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-650-unrelated-image",
+    "scenario": "unrelated-image",
+    "claim": {
+      "catalog_id": "boat-rockerz-650",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-650-7-9F067EA8",
+      "purchase_date": "2024-06-20",
+      "incident_date": "2024-10-03",
+      "statement": "SYNTHETIC demo case. The charging indicator stays dark after connecting the cable.",
+      "previous_repairs": 0,
+      "claim_value_minor": 12125,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "UNKNOWN",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "IRRELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a landscape without a device.",
+          "observed_brand": "UNKNOWN",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "NONE",
+          "identifier_linked_to_pictured_device": "NO",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-650-7-9F067EA8",
+          "invoice_date": "2024-06-20",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 650",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-650-7-9F067EA8",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-550-matching-label",
+    "scenario": "matching-label",
+    "claim": {
+      "catalog_id": "boat-rockerz-550",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-550-1-1748CE3D",
+      "purchase_date": "2024-12-29",
+      "incident_date": "2025-04-17",
+      "statement": "SYNTHETIC demo case. The power button intermittently fails to start the headphones.",
+      "previous_repairs": 0,
+      "claim_value_minor": 8129,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-BOAT-ROCKERZ-550-1-1748CE3D",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 550",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-550-1-1748CE3D",
+          "invoice_date": "2024-12-29",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 550",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-550-1-1748CE3D",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a26-5g-another-wrong-label",
+    "scenario": "another-wrong-label",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a26-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-8-3D38753D",
+      "purchase_date": "2024-07-03",
+      "incident_date": "2024-08-12",
+      "statement": "SYNTHETIC demo case. The touchscreen intermittently stops responding to input.",
+      "previous_repairs": 1,
+      "claim_value_minor": 2305,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A56 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A26-5G-8-3D38753D",
+          "invoice_date": "2024-07-03",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A26 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-8-3D38753D",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a56-5g-matching-without-photo-serial",
+    "scenario": "matching-without-photo-serial",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a56-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-4-4BEF2B79",
+      "purchase_date": "2025-02-08",
+      "incident_date": "2025-08-12",
+      "statement": "SYNTHETIC demo case. The charging port loses connection during normal charging.",
+      "previous_repairs": 0,
+      "claim_value_minor": 2492,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A56 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A56-5G-4-4BEF2B79",
+          "invoice_date": "2025-02-08",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A56 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-4-4BEF2B79",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a56-5g-ambiguous-photo",
+    "scenario": "ambiguous-photo",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a56-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-9-01C6BD24",
+      "purchase_date": "2025-09-20",
+      "incident_date": "2026-01-23",
+      "statement": "SYNTHETIC demo case. The screen intermittently goes blank during ordinary use.",
+      "previous_repairs": 1,
+      "claim_value_minor": 8144,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a partly obscured device label.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "UNKNOWN",
+          "image_quality": "AMBIGUOUS",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A56-5G-9-01C6BD24",
+          "invoice_date": "2025-09-20",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A56 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A56-5G-9-01C6BD24",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-450-matching-alias",
+    "scenario": "matching-alias",
+    "claim": {
+      "catalog_id": "boat-rockerz-450",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-450-2-983DC742",
+      "purchase_date": "2024-01-27",
+      "incident_date": "2024-06-05",
+      "statement": "SYNTHETIC demo case. The power button intermittently fails to start the headphones.",
+      "previous_repairs": 0,
+      "claim_value_minor": 8473,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-BOAT-ROCKERZ-450-2-983DC742",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "boAt Rockerz 450",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-450-2-983DC742",
+          "invoice_date": "2024-01-27",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 450",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-450-2-983DC742",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a36-5g-same-brand-swap",
+    "scenario": "same-brand-swap",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a36-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-5-6E4AE9AE",
+      "purchase_date": "2024-11-19",
+      "incident_date": "2025-05-28",
+      "statement": "SYNTHETIC demo case. The charging port loses connection during normal charging.",
+      "previous_repairs": 0,
+      "claim_value_minor": 3284,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-5-6E4AE9AE-ALT",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A26 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A36-5G-5-6E4AE9AE",
+          "invoice_date": "2024-11-19",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A36 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-5-6E4AE9AE",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-650-another-wrong-label",
+    "scenario": "another-wrong-label",
+    "claim": {
+      "catalog_id": "boat-rockerz-650",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-650-8-2D785DEE",
+      "purchase_date": "2025-03-09",
+      "incident_date": "2025-07-13",
+      "statement": "SYNTHETIC demo case. The charging indicator stays dark after connecting the cable.",
+      "previous_repairs": 1,
+      "claim_value_minor": 7996,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 450",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-650-8-2D785DEE",
+          "invoice_date": "2025-03-09",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 650",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-650-8-2D785DEE",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a36-5g-missing-evidence",
+    "scenario": "missing-evidence",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a36-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-11-5281D9F3",
+      "purchase_date": "2024-10-13",
+      "incident_date": "2025-05-27",
+      "statement": "SYNTHETIC demo case. The screen intermittently goes blank during ordinary use.",
+      "previous_repairs": 0,
+      "claim_value_minor": 6467,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device photo without identifying evidence.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "NONE",
+          "identifier_linked_to_pictured_device": "UNKNOWN",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a26-5g-serial-discrepancy",
+    "scenario": "serial-discrepancy",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a26-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-12-75388070",
+      "purchase_date": "2024-06-05",
+      "incident_date": "2024-07-18",
+      "statement": "SYNTHETIC demo case. The charging port loses connection during normal charging.",
+      "previous_repairs": 1,
+      "claim_value_minor": 3536,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-12-75388070-ALT",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A26 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A26-5G-12-75388070",
+          "invoice_date": "2024-06-05",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A26 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-12-75388070",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-450-matching-without-photo-serial",
+    "scenario": "matching-without-photo-serial",
+    "claim": {
+      "catalog_id": "boat-rockerz-450",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-450-4-F8CCCFFE",
+      "purchase_date": "2025-05-18",
+      "incident_date": "2025-09-13",
+      "statement": "SYNTHETIC demo case. The charging indicator stays dark after connecting the cable.",
+      "previous_repairs": 1,
+      "claim_value_minor": 11656,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Headphones",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "boAt",
+          "observed_model_text": "Rockerz 450",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-450-4-F8CCCFFE",
+          "invoice_date": "2025-05-18",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 450",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-450-4-F8CCCFFE",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-boat-rockerz-550-unrelated-image",
+    "scenario": "unrelated-image",
+    "claim": {
+      "catalog_id": "boat-rockerz-550",
+      "serial": "SYNTHETIC-BOAT-ROCKERZ-550-7-C885F4BB",
+      "purchase_date": "2025-03-18",
+      "incident_date": "2025-05-02",
+      "statement": "SYNTHETIC demo case. The headphones disconnect while playing audio nearby.",
+      "previous_repairs": 0,
+      "claim_value_minor": 9954,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "UNKNOWN",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "IRRELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a landscape without a device.",
+          "observed_brand": "UNKNOWN",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "NONE",
+          "identifier_linked_to_pictured_device": "NO",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-BOAT-ROCKERZ-550-7-C885F4BB",
+          "invoice_date": "2025-03-18",
+          "product_name": "Headphones",
+          "product_model": "Rockerz 550",
+          "serial_number": "SYNTHETIC-BOAT-ROCKERZ-550-7-C885F4BB",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a26-5g-same-brand-swap",
+    "scenario": "same-brand-swap",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a26-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-5-9FC81469",
+      "purchase_date": "2024-02-09",
+      "incident_date": "2024-07-02",
+      "statement": "SYNTHETIC demo case. The device shuts off unexpectedly with battery power remaining.",
+      "previous_repairs": 0,
+      "claim_value_minor": 13590,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-5-9FC81469-ALT",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "Galaxy A36 5G",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A26-5G-5-9FC81469",
+          "invoice_date": "2024-02-09",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A26 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-5-9FC81469",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a36-5g-matching-alias",
+    "scenario": "matching-alias",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a36-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-2-E050D6CC",
+      "purchase_date": "2025-06-04",
+      "incident_date": "2025-12-03",
+      "statement": "SYNTHETIC demo case. The device shuts off unexpectedly with battery power remaining.",
+      "previous_repairs": 0,
+      "claim_value_minor": 2230,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-2-E050D6CC",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "SM-A366E",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A36-5G-2-E050D6CC",
+          "invoice_date": "2025-06-04",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A36 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-2-E050D6CC",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a26-5g-unrelated-image",
+    "scenario": "unrelated-image",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a26-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-7-DA5F7CEF",
+      "purchase_date": "2025-01-01",
+      "incident_date": "2025-05-24",
+      "statement": "SYNTHETIC demo case. The touchscreen intermittently stops responding to input.",
+      "previous_repairs": 1,
+      "claim_value_minor": 11280,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "UNKNOWN",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "IRRELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a landscape without a device.",
+          "observed_brand": "UNKNOWN",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "NONE",
+          "identifier_linked_to_pictured_device": "NO",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A26-5G-7-DA5F7CEF",
+          "invoice_date": "2025-01-01",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A26 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-7-DA5F7CEF",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a36-5g-unrelated-image",
+    "scenario": "unrelated-image",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a36-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-7-6B93196C",
+      "purchase_date": "2025-05-21",
+      "incident_date": "2025-09-10",
+      "statement": "SYNTHETIC demo case. The device shuts off unexpectedly with battery power remaining.",
+      "previous_repairs": 0,
+      "claim_value_minor": 13040,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "UNKNOWN",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "UNKNOWN",
+          "model_text": "UNKNOWN",
+          "image_relevance": "IRRELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a landscape without a device.",
+          "observed_brand": "UNKNOWN",
+          "observed_model_text": "UNKNOWN",
+          "identifying_evidence_kind": "NONE",
+          "identifier_linked_to_pictured_device": "NO",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A36-5G-7-6B93196C",
+          "invoice_date": "2025-05-21",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A36 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A36-5G-7-6B93196C",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "SYNTHETIC",
+    "fixture_id": "SYNTHETIC-V2-samsung-galaxy-a26-5g-matching-alias",
+    "scenario": "matching-alias",
+    "claim": {
+      "catalog_id": "samsung-galaxy-a26-5g",
+      "serial": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-2-CAFDF0CF",
+      "purchase_date": "2024-06-02",
+      "incident_date": "2024-12-22",
+      "statement": "SYNTHETIC demo case. The screen intermittently goes blank during ordinary use.",
+      "previous_repairs": 1,
+      "claim_value_minor": 4130,
+      "currency": "INR"
+    },
+    "evidence": [
+      {
+        "label": "SYNTHETIC",
+        "kind": "photo",
+        "observations": {
+          "type": "product_photo",
+          "device_category": "Mobile phone",
+          "visible_damage_types": [
+            "NONE_VISIBLE"
+          ],
+          "damage_location": "UNKNOWN",
+          "visible_cracks": "NOT_VISIBLE",
+          "visible_dents": "NOT_VISIBLE",
+          "visible_liquid_contact_indicator": "NOT_VISIBLE",
+          "visible_tamper_signs": "NOT_VISIBLE",
+          "serial_text": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-2-CAFDF0CF",
+          "model_text": "UNKNOWN",
+          "image_relevance": "RELEVANT",
+          "observable_facts": "SYNTHETIC simulation of a device with readable identification.",
+          "observed_brand": "Samsung",
+          "observed_model_text": "SM-A266B",
+          "identifying_evidence_kind": "LABEL",
+          "identifier_linked_to_pictured_device": "YES",
+          "image_quality": "CLEAR",
+          "unknown_fields": []
+        }
+      },
+      {
+        "label": "SYNTHETIC",
+        "kind": "invoice",
+        "observations": {
+          "type": "invoice",
+          "seller_name": "SYNTHETIC Demo Retailer",
+          "invoice_number": "SYNTHETIC-INV-SAMSUNG-GALAXY-A26-5G-2-CAFDF0CF",
+          "invoice_date": "2024-06-02",
+          "product_name": "Mobile phone",
+          "product_model": "Galaxy A26 5G",
+          "serial_number": "SYNTHETIC-SAMSUNG-GALAXY-A26-5G-2-CAFDF0CF",
+          "customer_name": "SYNTHETIC Demo Customer",
+          "gstin": "UNKNOWN",
+          "original_text": "SYNTHETIC invoice fixture for rules and workflow testing.",
+          "unknown_fields": [
+            "gstin"
+          ]
+        }
+      }
+    ]
+  }
+]

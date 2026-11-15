@@ -1,0 +1,404 @@
+[
+  {
+    "asset_id": "synthetic-label-samsung-galaxy-a26-5g-match",
+    "sha256": "2849548cf8bc332a2d28d710769104cd03e5520800905e33ef0316e9db3d77eb",
+    "normalized_sha256": "b9ec95cca45de91c9c46ebc3c33cbfa6d6ca0a80d83dc01582d389e2dc8fb559",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-samsung-galaxy-a26-5g-alias",
+    "sha256": "c6624bbb4678449c103cbc012493124b10ef7749e6e15f3d3cd1ca4692c2dfdb",
+    "normalized_sha256": "4edeeb1a2ea152755be12a86618f4599b346b038c79d5482e16fab7d79a91632",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-samsung-galaxy-a26-5g-wrong",
+    "sha256": "2d868116648ed0dbb9ab03c33b4305deaf591460657371d59d83d37570464e81",
+    "normalized_sha256": "c8da90ee71db1b21495750f96db8c96c55d8414353ff80dee34abe516763b445",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-samsung-galaxy-a26-5g-discrepancy",
+    "sha256": "40469e80c73e88084c1c55d9690512e926c599a9f2ae47adf1612dfa42166dca",
+    "normalized_sha256": "e32840d1b86942635421e7cc8a7472b7a2f5a5cdb03712aafb5780ea6926bc24",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-samsung-galaxy-a26-5g-ambiguous",
+    "sha256": "8d5663a75c5af4012e3b52652e63e2fbeb702b2f001554a3ae8970ef81832112",
+    "normalized_sha256": "121b87e5258f3467d71fe033defe13d8f093e0ab75cca16b3a1abe8844af53be",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-samsung-galaxy-a36-5g-match",
+    "sha256": "4619a842dfdfb7d62d126f3191e9f6dd00eddd1fc215acf3dac7b2e273ca906e",
+    "normalized_sha256": "a5a11fb1ecea1762f9aaa7c1610abd0939a89c9e7ff65d62204568b02c232847",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-samsung-galaxy-a36-5g-alias",
+    "sha256": "7deba1e924959fa0d864dfa3f4046e9ce5cdbb1aaf4e8f95538d5b7832a6e419",
+    "normalized_sha256": "a20182f7086e5cc7667f00eecd9896cb577e5fdb6ad3db2628c4500ce74d78ee",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-samsung-galaxy-a36-5g-wrong",
+    "sha256": "546bbb0f6c22d53806049fefc8c97414437b1a64b9fb93d9351114d9b42f60e6",
+    "normalized_sha256": "95b6d5b03c194ef647566ffe755b06a3fe087f8a1fd950e395ac8a1e679ab2b7",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-samsung-galaxy-a36-5g-discrepancy",
+    "sha256": "644f42e0c477fa27c2fbce964836ea03c6a815857c84f90f10890c8e32346c98",
+    "normalized_sha256": "b1fc96173ac49729e06f7b5f6f1e5398e7614f6a5942819484130c8abe6d6947",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-samsung-galaxy-a36-5g-ambiguous",
+    "sha256": "b40882874dfa551500e92a9328ed3dd0dd29b31ad7fbac4f91523b2b5f430506",
+    "normalized_sha256": "a245fd6d766ef3d2a3fc2ec233d8a836db5d9ed5f1c41828316ed6b719eda2c1",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-samsung-galaxy-a56-5g-match",
+    "sha256": "d8d7a36a45740a15aff10738c6440579f854d176eef7e0460b74f93e92c4909b",
+    "normalized_sha256": "60a7fd2e3e95fe724e817df66bc7456d251ca6db9490decb617628204a433ddd",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-samsung-galaxy-a56-5g-alias",
+    "sha256": "049354ae592f118a6fdcae9ff62ce513076907cb734d2ae31e5615a32eebac47",
+    "normalized_sha256": "ce1c1eee2d661e653511fcc7991db8911b7d25ba780f8e84fee0c5180bebb2b2",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-samsung-galaxy-a56-5g-wrong",
+    "sha256": "51925ed13113f768610d16a0c34e4cd898070126a9088299956486a992adad62",
+    "normalized_sha256": "ea36a961e7e1951e5766edf362f659d4fd6aca36bc1ba5d0e21ae76e195272fe",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-samsung-galaxy-a56-5g-discrepancy",
+    "sha256": "8d58f3f24f0921894524e8130d965ade2bbe7c3cff85c01bebed20f51f64ceb3",
+    "normalized_sha256": "306583a70d01302cddc035e3c5c5e5e08f8ab390b82ff140f0c785533813757f",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-samsung-galaxy-a56-5g-ambiguous",
+    "sha256": "18f4dc558f7e7144af49e9cc8a578c1570bc83855cbfb237866b6f28368ac208",
+    "normalized_sha256": "fd76171a107d45995d2f4afe8e6b8988b8cd0c57c0432ad663a131e3cd8a13bc",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-boat-rockerz-450-match",
+    "sha256": "937b0718af18520b91e7f8ea4c90151dae27366fda82e67214d01fbcd28bdc1c",
+    "normalized_sha256": "8d3de64ea8f15729ae4edd9172755f5a9f11473e120b86a8a61295b3fbf10799",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-boat-rockerz-450-alias",
+    "sha256": "a062d784aa59dde04aca49e2c5517876f3c5f9e5e888b7d02fdcd6e34f92fa0b",
+    "normalized_sha256": "aef13cdbbdf5e6f8eb348294c5c0b48e383ead444a893c5d7221b7fb8bb705ea",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-boat-rockerz-450-wrong",
+    "sha256": "bd84683291040a7e4b736dde371373fbb03da3473403fca5628d0c355ec224f4",
+    "normalized_sha256": "9acc7039440022173bff79b3dbafead88f5aa2f9225f3197d816e4db114c4c45",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-boat-rockerz-450-discrepancy",
+    "sha256": "381a8491ecbf09e6a1ac6a9b0172335b9967dc342dcf439e9b3c7f53d81274a1",
+    "normalized_sha256": "32262510d196f6ca1046511ba73c652337e4f370ff61a942490a87467866bcb3",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-boat-rockerz-450-ambiguous",
+    "sha256": "a5aa7aa95a2b25a940327ced759ddfe23b5aced6f7dcc70733064a38a8fa6411",
+    "normalized_sha256": "38ab7e6f91b0d6cf11edbde2d472dec7e75e5827724afebfe452d09046521bd0",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-boat-rockerz-550-match",
+    "sha256": "6854be807ece67f9d219b65cf278a9f762487ac940ff6a30920d1f877ab53dd5",
+    "normalized_sha256": "742cda37900e52935b2b4eeb79f3e3b59c3d1b234c266ad1326d76609608c1c0",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-boat-rockerz-550-alias",
+    "sha256": "5374a609a4703395d1cfc0eac8cbb66e41aca3b9c0c8165980a95dae47e2260d",
+    "normalized_sha256": "9ea4371c21cc95b6671dc9c75e3fa4db836a32541bddf4de0de6379d3a0c1a4b",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-boat-rockerz-550-wrong",
+    "sha256": "000a546a4447d770f062fae812a3a2f257cce5a84d29bbca0c4a14557db63192",
+    "normalized_sha256": "f557658b75d01bc0d1bf89220e705699303baf751a6d253dec2af9e536d9e073",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-boat-rockerz-550-discrepancy",
+    "sha256": "dbf45faf2df7463dafb5d0c525c1c7f077485a272ff114e5c7570611130e730b",
+    "normalized_sha256": "697e804bbea4f3f79b8a3dbb74c34b77f3938dc0b210ffd23011f2a84603b25b",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-boat-rockerz-550-ambiguous",
+    "sha256": "b8baa2d3d564be1c4af0a18470eb7543c6d5f6ec9be6162882ed88dbb015d802",
+    "normalized_sha256": "b464fc86d21d6a7f753c8809babd2128a18461f481454036d98e91b9cfe2af9f",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-boat-rockerz-650-match",
+    "sha256": "1976f3b16097d69e6133c9e9b93c005f621c730160735cde0af9d6194a82db34",
+    "normalized_sha256": "9a2d68bf5c2675fae9f7f6f81d58412fc9ce50af974a5753151eff653cfa55f4",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-boat-rockerz-650-alias",
+    "sha256": "578d1c1091605d6a243ca9ab03c3d517926e81b9787fef64527e81358f8e8a06",
+    "normalized_sha256": "57a57f76aac1798e9d4e072224a14b2c71f587e3fefc4483aa0f94ddabf55db5",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-boat-rockerz-650-wrong",
+    "sha256": "dcf67aac4fb9aed334d4f0c483c840ebb79d40938eb3f4e9e6205f4193901d0d",
+    "normalized_sha256": "666fffb46f8bfadbfdc1488be3a4ff29e45f79164101863109d01bf7de009479",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-boat-rockerz-650-discrepancy",
+    "sha256": "9743c412ede3fc0472cdf4406abe9e37615291f612ded56cb847f8bea75fe833",
+    "normalized_sha256": "fd13654a41d6ed40938f4ca4bb3d9823df121a9118bed6d9c69b2e28beac5ae7",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-label-boat-rockerz-650-ambiguous",
+    "sha256": "c6db68dfe16d5e9e467824364ac5d74b8abf3e8f55163901f8c7c00ff9072762",
+    "normalized_sha256": "6b5a9934049b9b645c59a37a09df50e022d7ed38a62fc47046d14fef818a13e5",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-unsupported-unrelated-1",
+    "sha256": "7923b4fdf3cf4e634852865145b019cfd8b2fdd76852787f2894a626310469e1",
+    "normalized_sha256": "5dfbb11b2c001117156517722e8ec014bd8d910b51528af8e0cad6bee9958d1d",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-unsupported-unrelated-2",
+    "sha256": "0198991c38056ab2caa9d658393e51ccf131e4162c272150dc267a236b3dd61e",
+    "normalized_sha256": "fedf96b903188d121ee6b9aa7816adae558e772e472147df2e159cfad48682cd",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-unsupported-unrelated-3",
+    "sha256": "bf31e18da60658682301cb4fb00c41cf3bcf420fbcd49bbb5d5d848a25924576",
+    "normalized_sha256": "3f2af319faf9dddf9bf6bda672bc811265b094d6bd7f4f0ee87af7411679bbe5",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-box-samsung-galaxy-a26-5g",
+    "sha256": "e72e6a8a5e0145cb4845680fd220bceb633dda4a8523183638a9307e7182ec50",
+    "normalized_sha256": "40f271e591344de823a789c43182a8313a720197bc23ef2cac9bcccf0d0088f9",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-box-samsung-galaxy-a36-5g",
+    "sha256": "6c5cadf3a2390a9b77c7c873da44a904f5dbefbc0afaf26aeb36e8903c9d4c4c",
+    "normalized_sha256": "3ac4a16f6f7edf7654122e447b46bfe633ab94cfd0f2b8616622b1742649e01d",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-box-samsung-galaxy-a56-5g",
+    "sha256": "436a6763d23c0c9ae0295e33d5edad6e65c7978de283787a68abf1d1d9d5e748",
+    "normalized_sha256": "552886af2725059775a762798103bfb287ba8a5ab4fcaca2884342e63fb2e343",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-box-boat-rockerz-450",
+    "sha256": "e74fad27332bff6b5b247056216a32d117469ae518b1099065201bfad3ecd36b",
+    "normalized_sha256": "2a461b6bfb6fb746d9b68a349b48be4b4df809af077bb75223a4257751b78443",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-box-boat-rockerz-550",
+    "sha256": "d80623b500965dca8e988d6665e27f637561f9760f55c7ff59c1c13b87e47f50",
+    "normalized_sha256": "6ecf40951ad1e2207ef9b9214e812ecfb6b3021d2a2588f87967c3d3cbda5715",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "synthetic-box-boat-rockerz-650",
+    "sha256": "e95762ecaa30c909866057b10e48c17f0371afe1d82a8e97fa047d35299b56a5",
+    "normalized_sha256": "9ec87aaf82ce8d69566f967d9de17ed6620fa51c41d13d8400140bbf15e967e2",
+    "origin": "generated_synthetic"
+  },
+  {
+    "asset_id": "commons-a26a",
+    "sha256": "1b98682257b0581d8c00c14e47d4c51d14ed661277a454f975c7190923fae677",
+    "normalized_sha256": "f8f56823accc64e594e9dee4ab94958827ecb923dabdc6afd77e6f6beb54b424",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "commons-a26b",
+    "sha256": "3698c2ae3142ae5851dd908997f14938a7cfbc6f032febacce2208792636ace1",
+    "normalized_sha256": "1aadadf85dcd23872f7482da505279c05ef88bc763bc5f437c0382e34bf333d4",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "commons-a26d",
+    "sha256": "bc5f115f2180ab722db3418859cc402b77933692ea58db790e22bc1fce823dba",
+    "normalized_sha256": "e4ee237123034fc72388d690f4d3fcde08d4a3d84fce41a3dec05e1c0c4947ea",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "commons-a36a",
+    "sha256": "dd176b6c45116dd9273bc96b173e37948e8132680612d2da45d6cace13d60562",
+    "normalized_sha256": "b535277258030f5e9c89cad26a109c103cf7e4b3cfd28e96ae37ead9fb586052",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "commons-a36b",
+    "sha256": "559baa705096d4600245a655a581026b5cc4a8b2597aad2be28697de6af76326",
+    "normalized_sha256": "c4546cbc76a355f02cc8e590190892ea0180ae7f5c813ed55bde8a47f59babe3",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "commons-a56a",
+    "sha256": "d570b1db237973a5af0fa8822e6ed4238deff39d7ab9c4c0869c512ff2d82fdb",
+    "normalized_sha256": "bf88d2c6fc41fa2cbe91e1c01f14a957f4159775cf2cc3390a951eafc1bee7c9",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "commons-a56b",
+    "sha256": "47d570f5d95a698ad6b44d90472f345606b59ac2ca7a521248b9c31722153998",
+    "normalized_sha256": "30af3ca95eb4038fdf7f78066f07751ee8ce77eb49a24be62e4df4a7544b6c57",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "commons-a56c",
+    "sha256": "73421a800614db6a35e3df4fad76debd21888b701ae774d7557af0f6764a81cb",
+    "normalized_sha256": "a6b490cb56521894f55b80918df0c6cead94473d3cdd8cb28c9239e1cdb8f6a2",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "commons-a56d",
+    "sha256": "a21f7d0e8a7a03a05d3bb46284e447a1a03208f5e9bb448e25b5aa3d909f5d8a",
+    "normalized_sha256": "1ad960ebeb73b4b079cd34d9e848089620c9c2071e1d57d8a7b4df56eaf04540",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "commons-a25",
+    "sha256": "4ed6b99c53d32bd37c431fc469ede7d02a7a3eb0f533b9c706e6b19d4b272018",
+    "normalized_sha256": "da6efa058b9b7067c7d1936699d67109652965fe2d4547491a85b230531d3518",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "commons-a37",
+    "sha256": "eac9d0670ac2d2de9535eedc69452f831d787eb10bb586b0aff33628afd04976",
+    "normalized_sha256": "6fd12c5e29441c9ed8a3f3edc698b5def80aac02a987668114ce20537c786cdc",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "commons-crack1",
+    "sha256": "8e5a64ce264b7a4a33c8d87833019855e2640cf4fbda53410869e4f452cb4e3a",
+    "normalized_sha256": "6f26aa47ffaf392ddc1d543d8c7d33e8697d3ac7c6245c5d5ed37da4bef5a82e",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "commons-crack2",
+    "sha256": "fd3a11342e110cbfe2bdee06d888feb20312f44fd61116d3044949315a3145fc",
+    "normalized_sha256": "51c6ac011d10a786415ba386e5ea1d1af12d75456c7ecb2c70bbd31bfe029fd5",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "commons-tablet",
+    "sha256": "d0172d9a3f7c944b8a3e84c0989dd9ac29f7b89208aee6f097aedafcfb060a73",
+    "normalized_sha256": "2de179cf6d01abcf65ca2a872aa57b16ec47bc78e2ff71e14a3595661306fb65",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "commons-sony",
+    "sha256": "ecde0d69184a353eefbf6842096d55321c218088e8ef17ca9a978a1080e63162",
+    "normalized_sha256": "cf81f311dcc6019fcc153b02f924f67eced303853e966d4ea7c3d1935dde6cc0",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "commons-mug",
+    "sha256": "c69eb1edf0f48f7cc97ed7140b83fe2d93e3fac15553a01cd07f0146bbc3350f",
+    "normalized_sha256": "835fe24f36a78db551edd3592ea57869c41497d08fad354d7a9ec7522971452a",
+    "origin": "real_open_license"
+  },
+  {
+    "asset_id": "ai-generated-sheet1-1",
+    "sha256": "7c5664f88a80401cebf211dee2d267a65c7bf19c03cbb54bb75f0c7468144446",
+    "normalized_sha256": "81fe599632ac8c74d4a801a4d2edd185e4e613c6e26f24e87a0c4b9d13af88d0",
+    "origin": "ai_generated"
+  },
+  {
+    "asset_id": "ai-generated-sheet1-2",
+    "sha256": "6e9f0b29d90124f7d87cdd333e0e69fb716407abb81b9d8238e0d0962a908b2d",
+    "normalized_sha256": "a2f88490a9bd648da82b55bac6b0a188b3d3c2fb71f7604ad5504acdbdd86384",
+    "origin": "ai_generated"
+  },
+  {
+    "asset_id": "ai-generated-sheet1-3",
+    "sha256": "a1f2935b6c2322128b781e95ae0be2ed9f3056bed46d449f8821105049e816b4",
+    "normalized_sha256": "504d4c1fc64ca77b45545c8c08a0cc558743f280c97d57ec225cf5efcdc71427",
+    "origin": "ai_generated"
+  },
+  {
+    "asset_id": "ai-generated-sheet1-4",
+    "sha256": "010d3b5a7a197ea21eee53c5401d9aacbe6ed418b7501046e7b4c7e889b113a0",
+    "normalized_sha256": "5b69e19dcbda3fe6fe773632a5d632f8fe54ba25f50f234d4ad5fef79e08a3eb",
+    "origin": "ai_generated"
+  },
+  {
+    "asset_id": "ai-generated-sheet1-5",
+    "sha256": "72505321f40ae117a29bba408bb76a8fd0659b99f1816ea7606d970a1d71ebec",
+    "normalized_sha256": "b5da263bc306c10dccf8e8d5705162172da4bc2a95183948b9eeed810f22bf81",
+    "origin": "ai_generated"
+  },
+  {
+    "asset_id": "ai-generated-sheet1-6",
+    "sha256": "eadd021c5cef17b1ebd360d26423bc97962ed270df0fc98a5ada4f435f02eafe",
+    "normalized_sha256": "49b7167005f84505c0344e71656edf49ebbe34e63f2a152f75275d77adf5379e",
+    "origin": "ai_generated"
+  },
+  {
+    "asset_id": "ai-generated-sheet2-1",
+    "sha256": "2af647a2f2dd6771d61a5788bed877e0f368fb07dc1b57a4625096ef7e82752a",
+    "normalized_sha256": "f978db51c1579ae421d829849aa078db6fab424a2a0ea883504b40671293507b",
+    "origin": "ai_generated"
+  },
+  {
+    "asset_id": "ai-generated-sheet2-2",
+    "sha256": "5636bbb73b850bf1730501ba478c4cdbf4aee9ccb6444e6d58dae616c9560d8c",
+    "normalized_sha256": "b2ffc4b7087ff9f26f08a46fc3ea2f7c23a42424edd3cd498c4ffdc49657d909",
+    "origin": "ai_generated"
+  },
+  {
+    "asset_id": "ai-generated-sheet2-3",
+    "sha256": "b8cc45bd4a0f2c17af3918cae047615b4bb86123f31295d1dc6fa2aed290a5e2",
+    "normalized_sha256": "eb819adcc849a949ecbcc2b1e7b8d7aa8ba334bfedaf907fb165b4e8bd472261",
+    "origin": "ai_generated"
+  },
+  {
+    "asset_id": "ai-generated-sheet2-4",
+    "sha256": "35fa20cf19bbb19850793651ed31967ff75523bff009921fda2453353c16e045",
+    "normalized_sha256": "76e24d28e7c7be46c7c9f8c1a757f991c5e89e4232f3c8de4ccf26097909ab2e",
+    "origin": "ai_generated"
+  },
+  {
+    "asset_id": "ai-generated-sheet2-5",
+    "sha256": "00ff1669c5747cf93591d0e586518518d506b3bff024ee2f6dc9d43f8f8b28f3",
+    "normalized_sha256": "4f9582015c29c2430079579db80a4694305c3c37cfc296304f31f0adac153b94",
+    "origin": "ai_generated"
+  },
+  {
+    "asset_id": "ai-generated-sheet2-6",
+    "sha256": "4c13ff87a22401e8287943289f1f1b3dcccd637d9f5ca7c9849160d99d926ac1",
+    "normalized_sha256": "5cddcb60ef742dafaa3c2671e98393537bcc03cfd34dd132ca7cff23a020bbff",
+    "origin": "ai_generated"
+  }
+]

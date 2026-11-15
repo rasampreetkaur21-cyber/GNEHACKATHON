@@ -1,0 +1,812 @@
+[
+  {
+    "request_id": "0ed6bec588e8e1b6ef955bb4",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/attached/samsung-galaxy-a26-5g/match.jpg"
+  },
+  {
+    "request_id": "f1eb1ea387b9f10c089802a0",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/attached/samsung-galaxy-a26-5g/alias.jpg"
+  },
+  {
+    "request_id": "8df5d3642414e9898467de9c",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/attached/samsung-galaxy-a26-5g/wrong.jpg"
+  },
+  {
+    "request_id": "0f39106b4e2dbcae9e38bff2",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/attached/samsung-galaxy-a26-5g/discrepancy.jpg"
+  },
+  {
+    "request_id": "12e66da05b640b765b28eb30",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/attached/samsung-galaxy-a26-5g/ambiguous.jpg"
+  },
+  {
+    "request_id": "1fd9acd230126dd5a3cd7bfe",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/attached/samsung-galaxy-a36-5g/match.jpg"
+  },
+  {
+    "request_id": "d9ff5140f9fc6cbe2701ec17",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/attached/samsung-galaxy-a36-5g/alias.jpg"
+  },
+  {
+    "request_id": "d2a03e2bad61403ec359e6f3",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/attached/samsung-galaxy-a36-5g/wrong.jpg"
+  },
+  {
+    "request_id": "4a77547148e04d40c7005b8c",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/attached/samsung-galaxy-a36-5g/discrepancy.jpg"
+  },
+  {
+    "request_id": "46cf61a3363fea8968470172",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/attached/samsung-galaxy-a36-5g/ambiguous.jpg"
+  },
+  {
+    "request_id": "3a2a8e6c1423485f34bd578e",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/attached/samsung-galaxy-a56-5g/match.jpg"
+  },
+  {
+    "request_id": "10329df6dde5e86dd63afd4f",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/attached/samsung-galaxy-a56-5g/alias.jpg"
+  },
+  {
+    "request_id": "e5d7a74c7ef7ec7557e94dcb",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/attached/samsung-galaxy-a56-5g/wrong.jpg"
+  },
+  {
+    "request_id": "d81ec8e7a07b63500f7843c0",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/attached/samsung-galaxy-a56-5g/discrepancy.jpg"
+  },
+  {
+    "request_id": "4fe30370088bd450eaa4c362",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/attached/samsung-galaxy-a56-5g/ambiguous.jpg"
+  },
+  {
+    "request_id": "05aebcb063a4c34e725ed015",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/attached/boat-rockerz-450/match.jpg"
+  },
+  {
+    "request_id": "29fae8fd5ed9f690b1838cdf",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/attached/boat-rockerz-450/alias.jpg"
+  },
+  {
+    "request_id": "e682e540964ad8b2bcacb559",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/attached/boat-rockerz-450/wrong.jpg"
+  },
+  {
+    "request_id": "59c07a26039ff1a5988192c2",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/attached/boat-rockerz-450/discrepancy.jpg"
+  },
+  {
+    "request_id": "d4d6b71ff9747fe880c09b5f",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/attached/boat-rockerz-450/ambiguous.jpg"
+  },
+  {
+    "request_id": "18885fc0ba7407b87b0f2096",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/attached/boat-rockerz-550/match.jpg"
+  },
+  {
+    "request_id": "a716e95e6b943fdf8486cb76",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/attached/boat-rockerz-550/alias.jpg"
+  },
+  {
+    "request_id": "20cd39e03477e568dda5b178",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/attached/boat-rockerz-550/wrong.jpg"
+  },
+  {
+    "request_id": "cf89c3a976bb0696beb7b9c7",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/attached/boat-rockerz-550/discrepancy.jpg"
+  },
+  {
+    "request_id": "2df0082595c7e0e3da64eba6",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/attached/boat-rockerz-550/ambiguous.jpg"
+  },
+  {
+    "request_id": "0c8360ee84bd6132ca77155b",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/attached/boat-rockerz-650/match.jpg"
+  },
+  {
+    "request_id": "bbbd68ed68a62a51e891787d",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/attached/boat-rockerz-650/alias.jpg"
+  },
+  {
+    "request_id": "97db10828549d9413ad294cd",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/attached/boat-rockerz-650/wrong.jpg"
+  },
+  {
+    "request_id": "4d22ec44fe78dc6e2b98ecc7",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/attached/boat-rockerz-650/discrepancy.jpg"
+  },
+  {
+    "request_id": "1f88d77d135b70a9e70d7efe",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/attached/boat-rockerz-650/ambiguous.jpg"
+  },
+  {
+    "request_id": "8ce185e87baca2cff4861288",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/attached/unsupported/unrelated-1.jpg"
+  },
+  {
+    "request_id": "76c681dccc4d1daf7468fff1",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/attached/unsupported/unrelated-1.jpg"
+  },
+  {
+    "request_id": "299b588b4cd64d114e6dfb7f",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/attached/unsupported/unrelated-1.jpg"
+  },
+  {
+    "request_id": "9433a7227a67ac7e368953b5",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/attached/unsupported/unrelated-1.jpg"
+  },
+  {
+    "request_id": "2010518c9aa09f5eb5f7ba01",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/attached/unsupported/unrelated-1.jpg"
+  },
+  {
+    "request_id": "62e75b1204ea0817b8a41617",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/attached/unsupported/unrelated-1.jpg"
+  },
+  {
+    "request_id": "ba9a3c5f7b8bd90bda3a50cc",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/attached/unsupported/unrelated-2.jpg"
+  },
+  {
+    "request_id": "53ee5af481e74a2549b13d39",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/attached/unsupported/unrelated-2.jpg"
+  },
+  {
+    "request_id": "89f1bc2739233d234f8fce22",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/attached/unsupported/unrelated-2.jpg"
+  },
+  {
+    "request_id": "26a5fa1e990f8a804ab685a6",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/attached/unsupported/unrelated-2.jpg"
+  },
+  {
+    "request_id": "12741b7cc51cbf8f594e271a",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/attached/unsupported/unrelated-2.jpg"
+  },
+  {
+    "request_id": "85568ba736898f3c205af54c",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/attached/unsupported/unrelated-2.jpg"
+  },
+  {
+    "request_id": "b3f3af5e604a1376f78db496",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/attached/unsupported/unrelated-3.jpg"
+  },
+  {
+    "request_id": "fab47024a60287b6ccd234e1",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/attached/unsupported/unrelated-3.jpg"
+  },
+  {
+    "request_id": "dd242b6f43c0813af4fe1aa3",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/attached/unsupported/unrelated-3.jpg"
+  },
+  {
+    "request_id": "19689f91119cf5013b8d2976",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/attached/unsupported/unrelated-3.jpg"
+  },
+  {
+    "request_id": "e3fc78d6f17b80b3e7198d17",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/attached/unsupported/unrelated-3.jpg"
+  },
+  {
+    "request_id": "ec860d0a30397c725fe3f29a",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/attached/unsupported/unrelated-3.jpg"
+  },
+  {
+    "request_id": "f9b52556a6655828a4af3218",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/attached/samsung-galaxy-a26-5g/box-only.jpg"
+  },
+  {
+    "request_id": "f157bbb659c49f1542ff6179",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/attached/samsung-galaxy-a36-5g/box-only.jpg"
+  },
+  {
+    "request_id": "027c2c1643e2caaef926bcf4",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/attached/samsung-galaxy-a56-5g/box-only.jpg"
+  },
+  {
+    "request_id": "af98118634bb022151415e70",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/attached/boat-rockerz-450/box-only.jpg"
+  },
+  {
+    "request_id": "10eab2f9c1325c8bd7ed631c",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/attached/boat-rockerz-550/box-only.jpg"
+  },
+  {
+    "request_id": "8c9072fbf5062383a0e07cfc",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/attached/boat-rockerz-650/box-only.jpg"
+  },
+  {
+    "request_id": "c3796a7cd0f2bf473cd52f35",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/a26a.jpg"
+  },
+  {
+    "request_id": "43968693f5db215b2960318f",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/a26a.jpg"
+  },
+  {
+    "request_id": "1bf16c03050f2392583e82c0",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/a26a.jpg"
+  },
+  {
+    "request_id": "a4b31c2e8ad485e8418b260f",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/a26a.jpg"
+  },
+  {
+    "request_id": "24ab0d9d9b4783e2fc30a95a",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/a26a.jpg"
+  },
+  {
+    "request_id": "edc0acdade63d2e5fe332f4a",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/a26a.jpg"
+  },
+  {
+    "request_id": "846b097cb51fab05421170e2",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/a26b.jpg"
+  },
+  {
+    "request_id": "516d425e8986bf1db77e10e7",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/a26b.jpg"
+  },
+  {
+    "request_id": "baab98b31f728ebb9f88b1b6",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/a26b.jpg"
+  },
+  {
+    "request_id": "f3c15b8feaec79b3f9c59d5c",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/a26b.jpg"
+  },
+  {
+    "request_id": "e2829ccd3886f4367a3524b3",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/a26b.jpg"
+  },
+  {
+    "request_id": "f18b548d1547019721bebbb2",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/a26b.jpg"
+  },
+  {
+    "request_id": "3cc710afe6ef6bcb71ff61a7",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/a26d.jpg"
+  },
+  {
+    "request_id": "078be104f47ff4efb2d9c02e",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/a26d.jpg"
+  },
+  {
+    "request_id": "f568c1eda1d613e56bf693b2",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/a26d.jpg"
+  },
+  {
+    "request_id": "42cfa962c5f71ddef67ab42e",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/a26d.jpg"
+  },
+  {
+    "request_id": "77d3757197415b0803f578ca",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/a26d.jpg"
+  },
+  {
+    "request_id": "76cdc911fb15845207360ed9",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/a26d.jpg"
+  },
+  {
+    "request_id": "8c810a77caaf6f28818f0751",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/a36a.jpg"
+  },
+  {
+    "request_id": "b70c04aa8a06d96fc386ded4",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/a36a.jpg"
+  },
+  {
+    "request_id": "a4ff1e6c63c33eef8532ffcb",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/a36a.jpg"
+  },
+  {
+    "request_id": "a38c84b18fef3f280a7cfbc4",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/a36a.jpg"
+  },
+  {
+    "request_id": "a9ab4bce9f2690249a505924",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/a36a.jpg"
+  },
+  {
+    "request_id": "284887766cabaca75ca93877",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/a36a.jpg"
+  },
+  {
+    "request_id": "1c2923c18a622049e4fa7cdc",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/a36b.jpg"
+  },
+  {
+    "request_id": "0b474d0a82a0d1fecba7440d",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/a36b.jpg"
+  },
+  {
+    "request_id": "2a1ebcb74b2e271f2eeca05c",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/a36b.jpg"
+  },
+  {
+    "request_id": "1e147727fb39ee972743acba",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/a36b.jpg"
+  },
+  {
+    "request_id": "f711185a3f2100e236872b0f",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/a36b.jpg"
+  },
+  {
+    "request_id": "17469131827eff2be5cdd084",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/a36b.jpg"
+  },
+  {
+    "request_id": "c4faf813b66893fba91a740a",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/a56a.jpg"
+  },
+  {
+    "request_id": "42c6b08d160bfb9b469d9c94",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/a56a.jpg"
+  },
+  {
+    "request_id": "d3f7570b5ac4ee608e5eedea",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/a56a.jpg"
+  },
+  {
+    "request_id": "24aed1141a5ad97b5bda8057",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/a56a.jpg"
+  },
+  {
+    "request_id": "7bc37d6e81c095bbd8a7f6e7",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/a56a.jpg"
+  },
+  {
+    "request_id": "8c18dde84edf60e2a6065eae",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/a56a.jpg"
+  },
+  {
+    "request_id": "37b9065fc8e13b01f07999d9",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/a56b.jpg"
+  },
+  {
+    "request_id": "389ed839d9988a4c13d59ac5",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/a56b.jpg"
+  },
+  {
+    "request_id": "dfdc5e91984e3a7885faef65",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/a56b.jpg"
+  },
+  {
+    "request_id": "4aefab09ebbdd26339766665",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/a56b.jpg"
+  },
+  {
+    "request_id": "97fccf504f4d11f55fb86340",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/a56b.jpg"
+  },
+  {
+    "request_id": "400d5267e53b242d0c98e35e",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/a56b.jpg"
+  },
+  {
+    "request_id": "17e0a0a1934700b04221f94d",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/a56c.jpg"
+  },
+  {
+    "request_id": "0fdd918f8de6aaeecc8003a8",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/a56c.jpg"
+  },
+  {
+    "request_id": "68e39c2d68d427811d3083a3",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/a56c.jpg"
+  },
+  {
+    "request_id": "c175d1656296987497dd9041",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/a56c.jpg"
+  },
+  {
+    "request_id": "ed4e663fc92602b3f4834b7c",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/a56c.jpg"
+  },
+  {
+    "request_id": "5b0df85343bb330652e4f532",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/a56c.jpg"
+  },
+  {
+    "request_id": "14d2161ef15f516bef9a173d",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/a56d.jpg"
+  },
+  {
+    "request_id": "a8e7291583a601f21c105842",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/a56d.jpg"
+  },
+  {
+    "request_id": "64b7d9c6f867be254bce1296",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/a56d.jpg"
+  },
+  {
+    "request_id": "578c360bb5239d642384abc8",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/a56d.jpg"
+  },
+  {
+    "request_id": "cd1ed5e5ff19034fd3a6ed9e",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/a56d.jpg"
+  },
+  {
+    "request_id": "7094ab6ddec874acc97773a1",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/a56d.jpg"
+  },
+  {
+    "request_id": "acf054acbd8bf874fe2841a6",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/a25.jpg"
+  },
+  {
+    "request_id": "18aaca5fde84b9213dd081c5",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/a25.jpg"
+  },
+  {
+    "request_id": "1e67c74df643a68de98cdf42",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/a25.jpg"
+  },
+  {
+    "request_id": "7a43725701a8c2ec5753b497",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/a25.jpg"
+  },
+  {
+    "request_id": "dbd5e1e07d12627eb15cfda8",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/a25.jpg"
+  },
+  {
+    "request_id": "0810e092cd55e1dc4660fd75",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/a25.jpg"
+  },
+  {
+    "request_id": "61334ce4deb9bfed8207eb6d",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/a37.jpg"
+  },
+  {
+    "request_id": "84785269994e1692718599e0",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/a37.jpg"
+  },
+  {
+    "request_id": "630875bbe866b752bb481ef5",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/a37.jpg"
+  },
+  {
+    "request_id": "164185e46f3b9e2f36ebcb26",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/a37.jpg"
+  },
+  {
+    "request_id": "87668a938ec4bc649008893c",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/a37.jpg"
+  },
+  {
+    "request_id": "7fd464ea1768776062910581",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/a37.jpg"
+  },
+  {
+    "request_id": "0d6996d5b8e89e749af77a34",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/crack1.jpg"
+  },
+  {
+    "request_id": "883ed279ca992d8943221fd5",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/crack1.jpg"
+  },
+  {
+    "request_id": "2ae8464044b8bfc21410407f",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/crack1.jpg"
+  },
+  {
+    "request_id": "9a338067f163ab53eae646b2",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/crack1.jpg"
+  },
+  {
+    "request_id": "88c0b45296ac3e0143b9e266",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/crack1.jpg"
+  },
+  {
+    "request_id": "275ff19580f36270a39948ef",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/crack1.jpg"
+  },
+  {
+    "request_id": "8135ec0ab3e3c7e6f2d29ce4",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/crack2.jpg"
+  },
+  {
+    "request_id": "998d0bae1901eff8ac819ed6",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/crack2.jpg"
+  },
+  {
+    "request_id": "bea2c878c87b84e489a7f7cb",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/crack2.jpg"
+  },
+  {
+    "request_id": "ad6bc958ee9d48da2bafbe40",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/crack2.jpg"
+  },
+  {
+    "request_id": "2051edc5d8bf12c325430225",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/crack2.jpg"
+  },
+  {
+    "request_id": "f1b064973fdb0f576a896131",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/crack2.jpg"
+  },
+  {
+    "request_id": "7c835befd68e007947b4eed0",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/tablet.jpg"
+  },
+  {
+    "request_id": "eb54f758f1451f302ab32a64",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/tablet.jpg"
+  },
+  {
+    "request_id": "fab2dc3655bad959ee0e9dd6",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/tablet.jpg"
+  },
+  {
+    "request_id": "f7ea5a48800b251c07996c09",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/tablet.jpg"
+  },
+  {
+    "request_id": "b095b739e9c1c0cafc6f79e3",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/tablet.jpg"
+  },
+  {
+    "request_id": "96d532e519fa84a410f7b96c",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/tablet.jpg"
+  },
+  {
+    "request_id": "c2b9cc8c79bd49ae6c71394e",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/sony.jpg"
+  },
+  {
+    "request_id": "3af8c87bd4b0d5d23ea30478",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/sony.jpg"
+  },
+  {
+    "request_id": "6aaffc47f343ca88a59e0fb3",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/sony.jpg"
+  },
+  {
+    "request_id": "0341db5917817ebfc18d4598",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/sony.jpg"
+  },
+  {
+    "request_id": "c26d98a4cc081d8c20be05ab",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/sony.jpg"
+  },
+  {
+    "request_id": "0f2b8b97de7676540107be04",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/sony.jpg"
+  },
+  {
+    "request_id": "6309c0eb0e46d22aa72d78a0",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/commons/mug.jpg"
+  },
+  {
+    "request_id": "496011eeaed113f47184bbe1",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/commons/mug.jpg"
+  },
+  {
+    "request_id": "875b40b610c62e28dada840e",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/commons/mug.jpg"
+  },
+  {
+    "request_id": "44681cd1e4c3d810fa6476c2",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/commons/mug.jpg"
+  },
+  {
+    "request_id": "c98dd9af15d6a4bb2f08158f",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/commons/mug.jpg"
+  },
+  {
+    "request_id": "7bb7aa57bc41790ac7b2b69f",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/commons/mug.jpg"
+  },
+  {
+    "request_id": "fee58923f1e0300d9fdb7b99",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/ai_generated/ai-generated-sheet1-1.jpg"
+  },
+  {
+    "request_id": "41978ac757c548c783603000",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/ai_generated/ai-generated-sheet1-2.jpg"
+  },
+  {
+    "request_id": "ae839679753e32addff25400",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/ai_generated/ai-generated-sheet1-3.jpg"
+  },
+  {
+    "request_id": "1d38cebfdc3d2c5ed4100cb9",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/ai_generated/ai-generated-sheet1-4.jpg"
+  },
+  {
+    "request_id": "1a4201ed7bbf8a97fe844af5",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/ai_generated/ai-generated-sheet1-5.jpg"
+  },
+  {
+    "request_id": "585fa5d9e7056c3e42e5f18b",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/ai_generated/ai-generated-sheet1-6.jpg"
+  },
+  {
+    "request_id": "919c875557845537bc09fdcd",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "image_path": "images/ai_generated/ai-generated-sheet2-1.jpg"
+  },
+  {
+    "request_id": "3bb6ec5e419a0e6f9bc6014d",
+    "selected_model_id": "samsung-galaxy-a36-5g",
+    "image_path": "images/ai_generated/ai-generated-sheet2-2.jpg"
+  },
+  {
+    "request_id": "e33fa863beb7273b791c4d3a",
+    "selected_model_id": "samsung-galaxy-a56-5g",
+    "image_path": "images/ai_generated/ai-generated-sheet2-3.jpg"
+  },
+  {
+    "request_id": "da765c814ab5032d5680eefe",
+    "selected_model_id": "boat-rockerz-450",
+    "image_path": "images/ai_generated/ai-generated-sheet2-4.jpg"
+  },
+  {
+    "request_id": "c463de6eb210985a3ca1146d",
+    "selected_model_id": "boat-rockerz-550",
+    "image_path": "images/ai_generated/ai-generated-sheet2-5.jpg"
+  },
+  {
+    "request_id": "2ea7143e758b6c31470d4759",
+    "selected_model_id": "boat-rockerz-650",
+    "image_path": "images/ai_generated/ai-generated-sheet2-6.jpg"
+  }
+]

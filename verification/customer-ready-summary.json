@@ -1,0 +1,29 @@
+{
+  "application_tests": 365,
+  "application_test_files": 16,
+  "ocr_tests": 8,
+  "dataset_tests": 4,
+  "build": "passed",
+  "changed_files": [
+    "backend/src/services/customerOutcome.js",
+    "backend/src/services/analysis.js",
+    "backend/src/services/deviceChecks.js",
+    "backend/src/services/deviceVerification.js",
+    "backend/src/services/images.js",
+    "backend/src/database/db.js",
+    "backend/src/app.js",
+    "backend/local_ai/ocr_fields.py",
+    "backend/local_ai/vision.py",
+    "backend/local_ai/test_fields.py",
+    "backend/tests/customer-outcome.test.jsx",
+    "backend/tests/customer-outcome-api.test.js",
+    "frontend/src/App.jsx",
+    "frontend/src/components/CustomerClaimStatus.jsx",
+    "frontend/src/components/CustomerPhotoScan.jsx",
+    "frontend/src/components/EvidenceAnalysis.jsx",
+    "frontend/src/components/EvidenceUpload.jsx",
+    "frontend/src/components/DeviceCheckResult.jsx",
+    "frontend/src/utils/scan.js",
+    "frontend/src/theme.css"
+  ]
+}

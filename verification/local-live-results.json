@@ -1,0 +1,86 @@
+[
+  {
+    "name": "mug",
+    "latency_ms": 4979,
+    "result": {
+      "status": "INVALID_DEVICE",
+      "decision": "REJECT",
+      "selected_model_id": "samsung-galaxy-a26-5g",
+      "observed_model_id": null,
+      "reason_code": "OUTSIDE_CATALOG",
+      "reason": "Photo ka clear subject supported six products mein nahi hai.",
+      "next_action": "Supported device ki photo upload karein.",
+      "confidence": null,
+      "authenticity": "REAL_UNVERIFIED",
+      "origin": "user_upload_unverified",
+      "claim_checks": [],
+      "analysis_error": null
+    },
+    "local_assessment": {
+      "engine": "LOCAL_CLIP_DATASET_CLASSIFIER_OCR",
+      "category": "mug",
+      "readable_model_candidate": null,
+      "reference_classifier_hint": null,
+      "dataset_category_hint": "mug",
+      "ocr_text": "",
+      "identity_limit": "OCR text and visual similarity do not establish that a label is attached to this physical device.",
+      "training_origin": "real_open_license_only"
+    }
+  },
+  {
+    "name": "phone",
+    "latency_ms": 2429,
+    "result": {
+      "status": "UNCLEAR_IMAGE",
+      "decision": "NEEDS_RETAKE",
+      "selected_model_id": "samsung-galaxy-a26-5g",
+      "observed_model_id": null,
+      "reason_code": "NEED_LINKED_MODEL",
+      "reason": "Device ka readable model evidence isi photo mein linked nahi mila.",
+      "next_action": "Device aur attached model label/About screen ek clear frame mein dikhayein.",
+      "confidence": null,
+      "authenticity": "REAL_UNVERIFIED",
+      "origin": "user_upload_unverified",
+      "claim_checks": [],
+      "analysis_error": null
+    },
+    "local_assessment": {
+      "engine": "LOCAL_CLIP_DATASET_CLASSIFIER_OCR",
+      "category": "phone",
+      "readable_model_candidate": null,
+      "reference_classifier_hint": null,
+      "dataset_category_hint": "phone",
+      "ocr_text": "l100\nSpotify\nNetflix\nFR\nin\nClock\nSamsung Free\nGaming Hub\nMicrosoft",
+      "identity_limit": "OCR text and visual similarity do not establish that a label is attached to this physical device.",
+      "training_origin": "real_open_license_only"
+    }
+  },
+  {
+    "name": "synthetic_label",
+    "latency_ms": 3876,
+    "result": {
+      "status": "HUMAN_REVIEW",
+      "decision": "ESCALATE",
+      "selected_model_id": "samsung-galaxy-a26-5g",
+      "observed_model_id": null,
+      "reason_code": "SYNTHETIC_SIGNAL",
+      "reason": "Generated ya synthetic evidence ka signal mila; human review chahiye.",
+      "next_action": "Actual device ki fresh camera photo dein aur reviewer se check karayein.",
+      "confidence": null,
+      "authenticity": "SYNTHETIC_SIGNAL",
+      "origin": "user_upload_unverified",
+      "claim_checks": [],
+      "analysis_error": null
+    },
+    "local_assessment": {
+      "engine": "LOCAL_CLIP_DATASET_CLASSIFIER_OCR",
+      "category": "document",
+      "readable_model_candidate": "samsung-galaxy-a26-5g",
+      "reference_classifier_hint": null,
+      "dataset_category_hint": "phone",
+      "ocr_text": "Samsung\nModel: Galaxy A265G\nS/N: SYNTHETIC-SAMSUNG-GALAXY-A26-5G-00-3DAC1E01\nSYNTHETIC SAMPLELABEL-NOTAREALPRODUCT",
+      "identity_limit": "OCR text and visual similarity do not establish that a label is attached to this physical device.",
+      "training_origin": "real_open_license_only"
+    }
+  }
+]

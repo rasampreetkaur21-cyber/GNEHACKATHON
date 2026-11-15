@@ -1,0 +1,66 @@
+{
+  "label": "SYNTHETIC",
+  "scenarios": {
+    "matching-label": {
+      "verification": "MATCH",
+      "r04": "PASS",
+      "recommendation": "AUTO_APPROVE"
+    },
+    "matching-alias": {
+      "verification": "MATCH",
+      "r04": "PASS",
+      "recommendation": "AUTO_APPROVE"
+    },
+    "matching-second-label": {
+      "verification": "MATCH",
+      "r04": "PASS",
+      "recommendation": "AUTO_APPROVE"
+    },
+    "matching-without-photo-serial": {
+      "verification": "MATCH",
+      "r04": "PASS",
+      "recommendation": "AUTO_APPROVE"
+    },
+    "same-brand-swap": {
+      "verification": "INVALID_DEVICE",
+      "r04": "FAIL",
+      "recommendation": "ESCALATE"
+    },
+    "cross-category": {
+      "verification": "INVALID_DEVICE",
+      "r04": "FAIL",
+      "recommendation": "ESCALATE"
+    },
+    "unrelated-image": {
+      "verification": "INVALID_DEVICE",
+      "r04": "FAIL",
+      "recommendation": "ESCALATE"
+    },
+    "another-wrong-label": {
+      "verification": "INVALID_DEVICE",
+      "r04": "FAIL",
+      "recommendation": "ESCALATE"
+    },
+    "ambiguous-photo": {
+      "verification": "UNVERIFIED",
+      "r04": "UNKNOWN",
+      "recommendation": "NEEDS_EVIDENCE"
+    },
+    "box-only": {
+      "verification": "UNVERIFIED",
+      "r04": "UNKNOWN",
+      "recommendation": "NEEDS_EVIDENCE"
+    },
+    "missing-evidence": {
+      "verification": "UNVERIFIED",
+      "r04": "UNKNOWN",
+      "recommendation": "NEEDS_EVIDENCE"
+    },
+    "serial-discrepancy": {
+      "verification": "UNVERIFIED",
+      "r01": "FAIL",
+      "r04": "UNKNOWN",
+      "recommendation": "NEEDS_EVIDENCE"
+    }
+  }
+}

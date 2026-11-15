@@ -1,0 +1,282 @@
+{
+  "APPROVE": {
+    "status": "VALID_MATCH",
+    "decision": "APPROVE",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "observed_model_id": "samsung-galaxy-a26-5g",
+    "reason_code": "ALL_CHECKS_PASSED",
+    "reason": "Linked model evidence aur configured claim checks pass hain; koi detected authenticity signal nahi mila.",
+    "next_action": "Approval recommendation reviewer ko dikhayein. Yeh product authenticity ki guarantee nahi hai.",
+    "confidence": null,
+    "authenticity": "REAL_UNVERIFIED",
+    "origin": "user_upload_unverified",
+    "claim_checks": [
+      {
+        "id": "R1",
+        "status": "PASS"
+      },
+      {
+        "id": "R2",
+        "status": "PASS"
+      },
+      {
+        "id": "R3",
+        "status": "PASS"
+      },
+      {
+        "id": "R4",
+        "status": "PASS"
+      },
+      {
+        "id": "R5",
+        "status": "PASS"
+      },
+      {
+        "id": "R6",
+        "status": "PASS"
+      },
+      {
+        "id": "R7",
+        "status": "PASS"
+      },
+      {
+        "id": "R8",
+        "status": "PASS"
+      },
+      {
+        "id": "R9",
+        "status": "PASS"
+      },
+      {
+        "id": "R10",
+        "status": "PASS"
+      }
+    ],
+    "analysis_error": null,
+    "sample_scope": "OBSERVATION_POLICY_FIXTURE_ONLY_NOT_A_REAL_IMAGE_PREDICTION"
+  },
+  "DEVICE_MISMATCH": {
+    "status": "DEVICE_MISMATCH",
+    "decision": "REJECT",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "observed_model_id": "samsung-galaxy-a36-5g",
+    "reason_code": "DIFFERENT_SUPPORTED_MODEL",
+    "reason": "Photo mein doosra supported model mila; selected product se match nahi hai.",
+    "next_action": "Sahi product select karein aur uski fresh photo upload karein.",
+    "confidence": null,
+    "authenticity": "REAL_UNVERIFIED",
+    "origin": "user_upload_unverified",
+    "claim_checks": [
+      {
+        "id": "R1",
+        "status": "PASS"
+      },
+      {
+        "id": "R2",
+        "status": "PASS"
+      },
+      {
+        "id": "R3",
+        "status": "PASS"
+      },
+      {
+        "id": "R4",
+        "status": "PASS"
+      },
+      {
+        "id": "R5",
+        "status": "PASS"
+      },
+      {
+        "id": "R6",
+        "status": "PASS"
+      },
+      {
+        "id": "R7",
+        "status": "PASS"
+      },
+      {
+        "id": "R8",
+        "status": "PASS"
+      },
+      {
+        "id": "R9",
+        "status": "PASS"
+      },
+      {
+        "id": "R10",
+        "status": "PASS"
+      }
+    ],
+    "analysis_error": null,
+    "sample_scope": "OBSERVATION_POLICY_FIXTURE_ONLY_NOT_A_REAL_IMAGE_PREDICTION"
+  },
+  "INVALID_DEVICE": {
+    "status": "INVALID_DEVICE",
+    "decision": "REJECT",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "observed_model_id": null,
+    "reason_code": "OUTSIDE_CATALOG",
+    "reason": "Photo ka clear subject supported six products mein nahi hai.",
+    "next_action": "Supported device ki photo upload karein.",
+    "confidence": null,
+    "authenticity": "REAL_UNVERIFIED",
+    "origin": "user_upload_unverified",
+    "claim_checks": [
+      {
+        "id": "R1",
+        "status": "PASS"
+      },
+      {
+        "id": "R2",
+        "status": "PASS"
+      },
+      {
+        "id": "R3",
+        "status": "PASS"
+      },
+      {
+        "id": "R4",
+        "status": "PASS"
+      },
+      {
+        "id": "R5",
+        "status": "PASS"
+      },
+      {
+        "id": "R6",
+        "status": "PASS"
+      },
+      {
+        "id": "R7",
+        "status": "PASS"
+      },
+      {
+        "id": "R8",
+        "status": "PASS"
+      },
+      {
+        "id": "R9",
+        "status": "PASS"
+      },
+      {
+        "id": "R10",
+        "status": "PASS"
+      }
+    ],
+    "analysis_error": null,
+    "sample_scope": "OBSERVATION_POLICY_FIXTURE_ONLY_NOT_A_REAL_IMAGE_PREDICTION"
+  },
+  "UNCLEAR_IMAGE": {
+    "status": "UNCLEAR_IMAGE",
+    "decision": "NEEDS_RETAKE",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "observed_model_id": null,
+    "reason_code": "NEED_LINKED_MODEL",
+    "reason": "Device ka readable model evidence isi photo mein linked nahi mila.",
+    "next_action": "Device aur attached model label/About screen ek clear frame mein dikhayein.",
+    "confidence": null,
+    "authenticity": "REAL_UNVERIFIED",
+    "origin": "user_upload_unverified",
+    "claim_checks": [
+      {
+        "id": "R1",
+        "status": "PASS"
+      },
+      {
+        "id": "R2",
+        "status": "PASS"
+      },
+      {
+        "id": "R3",
+        "status": "PASS"
+      },
+      {
+        "id": "R4",
+        "status": "PASS"
+      },
+      {
+        "id": "R5",
+        "status": "PASS"
+      },
+      {
+        "id": "R6",
+        "status": "PASS"
+      },
+      {
+        "id": "R7",
+        "status": "PASS"
+      },
+      {
+        "id": "R8",
+        "status": "PASS"
+      },
+      {
+        "id": "R9",
+        "status": "PASS"
+      },
+      {
+        "id": "R10",
+        "status": "PASS"
+      }
+    ],
+    "analysis_error": null,
+    "sample_scope": "OBSERVATION_POLICY_FIXTURE_ONLY_NOT_A_REAL_IMAGE_PREDICTION"
+  },
+  "HUMAN_REVIEW": {
+    "status": "HUMAN_REVIEW",
+    "decision": "ESCALATE",
+    "selected_model_id": "samsung-galaxy-a26-5g",
+    "observed_model_id": null,
+    "reason_code": "SYNTHETIC_SIGNAL",
+    "reason": "Generated ya synthetic evidence ka signal mila; human review chahiye.",
+    "next_action": "Actual device ki fresh camera photo dein aur reviewer se check karayein.",
+    "confidence": null,
+    "authenticity": "SYNTHETIC_SIGNAL",
+    "origin": "user_upload_unverified",
+    "claim_checks": [
+      {
+        "id": "R1",
+        "status": "PASS"
+      },
+      {
+        "id": "R2",
+        "status": "PASS"
+      },
+      {
+        "id": "R3",
+        "status": "PASS"
+      },
+      {
+        "id": "R4",
+        "status": "PASS"
+      },
+      {
+        "id": "R5",
+        "status": "PASS"
+      },
+      {
+        "id": "R6",
+        "status": "PASS"
+      },
+      {
+        "id": "R7",
+        "status": "PASS"
+      },
+      {
+        "id": "R8",
+        "status": "PASS"
+      },
+      {
+        "id": "R9",
+        "status": "PASS"
+      },
+      {
+        "id": "R10",
+        "status": "PASS"
+      }
+    ],
+    "analysis_error": null,
+    "sample_scope": "OBSERVATION_POLICY_FIXTURE_ONLY_NOT_A_REAL_IMAGE_PREDICTION"
+  }
+}

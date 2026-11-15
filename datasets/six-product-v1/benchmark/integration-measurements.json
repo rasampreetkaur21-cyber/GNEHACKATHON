@@ -1,0 +1,13 @@
+{
+  "evaluation_mode": "POLICY_FIXTURES_ONLY",
+  "total": 84,
+  "matched": 84,
+  "not_image_recognition_accuracy": true,
+  "image_model_benchmarks": [
+    {
+      "model_name": "Claude vision (not configured)",
+      "status": "NOT_RUN",
+      "reason": "No live provider benchmark was executed. Integration tests use a mock provider."
+    }
+  ]
+}

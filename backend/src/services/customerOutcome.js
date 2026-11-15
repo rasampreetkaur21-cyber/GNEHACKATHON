@@ -1,0 +1,28 @@
+import {getCatalogItem} from "../catalog.js";
+const pendingStates = new Set(["ANALYSIS_QUEUED","ANALYSIS_PENDING"]);
+export function customerOutcome({claim,investigation,evidence=[],verification=null,reviewNote=null}) {
+ const outcome=(code,title,reason,next_action,action=null)=>({code,title,reason,next_action,action,approved:claim.status === "APPROVED",final:["APPROVED","REJECTED"].includes(claim.status)});
+ if(claim.is_draft) return outcome("DRAFT","Not submitted yet","Your claim is saved as a draft.","Review the details and submit your claim.");
+ if(claim.status === "APPROVED")return outcome("APPROVED","Your claim is approved",reviewNote || "An authorized reviewer has approved your claim.","Keep your claim reference for the next service update.");
+ if(claim.status === "REJECTED")return outcome("REJECTED","Your claim was not approved",reviewNote || "A reviewer has declined this claim. Open the review details for the recorded reason.","Check the reviewer’s reason and any requested correction.","DETAILS");
+ const photo=evidence.find(e=>e.kind === "photo" && e.active !== 0),invoice=evidence.find(e=>e.kind === "invoice" && e.active !== 0);
+ if(!photo)return outcome("PHOTO_NEEDED","Not approved yet — add your product photo","A product photo is needed before the claim can be checked.","Upload a clear photo of your selected product and its model label.","UPLOAD");
+ if(evidence.some(e=>e.active !== 0 && pendingStates.has(e.processing_status)))return outcome("SCANNING","We’re checking your evidence","Your claim is not approved yet. The photo/document scan is running.","You can stay here; the result will update automatically.");
+ if(claim.status === "NEEDS_EVIDENCE" && reviewNote)return outcome("MORE_DETAILS","Not approved yet — more information needed",reviewNote,"Add the requested photo or document below.","UPLOAD");
+ if(verification?.evidence_basis?.closed_set_status === "HUMAN_REVIEW")return outcome("REVIEW_NEEDED","Not approved yet — photo review needed","The photo needs an authenticity or source check.","Provide a fresh original product photo, or let the reviewer assess the saved image.","UPLOAD");
+ if(verification?.status === "INVALID_DEVICE")return outcome("WRONG_PHOTO","Not approved yet — replace this photo","The uploaded photo does not provide suitable evidence of your selected product.",`Upload the actual ${claim.model || "selected product"}, with its readable model label in the same photo.`,"UPLOAD");
+ const report=photo.scan_report || (photo.scan_report_json ? JSON.parse(photo.scan_report_json) : null);
+ const quality=report?.quality;
+ const retakes={DARK:"The product details are too dark to read.",BLURRY:"The identifying details are not sharp enough to read.",LOW_RESOLUTION:"The image is too small to read the product details.",CROPPED:"The photo leaves out part of the product or label.",OCCLUDED:"The product or identifying label is blocked.",GLARE:"Reflections cover the identifying details."};
+ if(retakes[quality])return outcome("RETAKE_NEEDED","Not approved yet — take a clearer photo",retakes[quality],"Use good lighting, steady focus and include the device and model label.","UPLOAD");
+ if(["ANALYSIS_FAILED","AI_NOT_CONFIGURED"].includes(photo.processing_status))return outcome("SCAN_REVIEW","Not approved yet — scan needs attention","Automatic checking could not finish. Your photo is saved.","Retry the photo scan below, or let a reviewer check the saved image.","EVIDENCE");
+ if(verification?.status !== "MATCH"){
+  if(report?.other_model_text || (report?.readable_model_candidate && claim.catalog_id && report.readable_model_candidate !== claim.catalog_id)) return outcome("CHECK_PRODUCT","Not approved yet — check the selected model",`The scan read ${report.other_model_text || getCatalogItem(report.readable_model_candidate)?.model || "different model text"}, while your claim is for ${claim.model || "the selected product"}. This needs confirmation.`,"Check the product selection and upload a clear photo of that device and its model label.","UPLOAD");
+  if(report?.readable_model_candidate || verification?.observed_model)return outcome("MODEL_REVIEW","Not approved yet — model confirmation pending","Readable model text was found, but it has not been reliably linked to the physical product.","A reviewer needs to confirm the device label. A clearer device-and-label photo can help.","UPLOAD");
+  return outcome("LABEL_NEEDED","Not approved yet — show the model label","The photo was checked, but the exact model could not be confirmed.","Show the actual device and its factory model label or About screen together.","UPLOAD");
+ }
+ if(!invoice)return outcome("INVOICE_NEEDED","Not approved yet — purchase proof needed","The product photo has been checked. The purchase receipt is still missing.","Upload your purchase invoice, or ask for review if you do not have it.","UPLOAD");
+ if(investigation?.outcome === "AUTO_APPROVE")return outcome("FINAL_REVIEW","Checks complete — final review pending","The configured checks have passed. A reviewer still needs to confirm the claim.","No extra action is needed right now.");
+ if(investigation?.results?.some(r=>r.status === "FAIL"))return outcome("REVIEW_NEEDED","Not approved yet — details need review","One or more claim details need clarification before a decision can be made.","A reviewer will compare the evidence and explain any correction needed.");
+ return outcome("UNDER_REVIEW","Not approved yet — review in progress","Your evidence is saved. Warranty eligibility still needs confirmation.","A reviewer needs to check the purchase and warranty records. No extra action right now.");
+}

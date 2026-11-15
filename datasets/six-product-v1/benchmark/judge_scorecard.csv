@@ -1,0 +1,9 @@
+criterion,max_points,score,evidence_or_deduction
+Problem clarity and user impact,25,,
+Technical correctness and closed-set enforcement,20,,
+Evidence provenance/authenticity and honest limitations,15,,
+Evaluation quality/leakage/reproducibility,15,,
+Product UX/accessibility/Hinglish clarity,10,,
+Engineering quality/security/failure handling,10,,
+Novelty and demo quality,5,,
+TOTAL,100,,

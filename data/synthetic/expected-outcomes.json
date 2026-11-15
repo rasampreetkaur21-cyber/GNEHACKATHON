@@ -1,0 +1,162 @@
+[
+  {
+    "fixture_id": "SYNTHETIC-001",
+    "outcome": "AUTO_APPROVE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-002",
+    "outcome": "REJECT_RECOMMENDED"
+  },
+  {
+    "fixture_id": "SYNTHETIC-003",
+    "outcome": "NEEDS_EVIDENCE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-004",
+    "outcome": "ESCALATE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-005",
+    "outcome": "AUTO_APPROVE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-006",
+    "outcome": "ESCALATE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-007",
+    "outcome": "NEEDS_EVIDENCE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-008",
+    "outcome": "ESCALATE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-009",
+    "outcome": "AUTO_APPROVE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-010",
+    "outcome": "REJECT_RECOMMENDED"
+  },
+  {
+    "fixture_id": "SYNTHETIC-011",
+    "outcome": "NEEDS_EVIDENCE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-012",
+    "outcome": "ESCALATE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-013",
+    "outcome": "AUTO_APPROVE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-014",
+    "outcome": "ESCALATE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-015",
+    "outcome": "NEEDS_EVIDENCE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-016",
+    "outcome": "ESCALATE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-017",
+    "outcome": "AUTO_APPROVE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-018",
+    "outcome": "REJECT_RECOMMENDED"
+  },
+  {
+    "fixture_id": "SYNTHETIC-019",
+    "outcome": "NEEDS_EVIDENCE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-020",
+    "outcome": "ESCALATE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-021",
+    "outcome": "AUTO_APPROVE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-022",
+    "outcome": "ESCALATE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-023",
+    "outcome": "NEEDS_EVIDENCE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-024",
+    "outcome": "ESCALATE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-025",
+    "outcome": "AUTO_APPROVE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-026",
+    "outcome": "REJECT_RECOMMENDED"
+  },
+  {
+    "fixture_id": "SYNTHETIC-027",
+    "outcome": "NEEDS_EVIDENCE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-028",
+    "outcome": "ESCALATE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-029",
+    "outcome": "AUTO_APPROVE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-030",
+    "outcome": "ESCALATE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-031",
+    "outcome": "NEEDS_EVIDENCE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-032",
+    "outcome": "ESCALATE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-033",
+    "outcome": "AUTO_APPROVE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-034",
+    "outcome": "REJECT_RECOMMENDED"
+  },
+  {
+    "fixture_id": "SYNTHETIC-035",
+    "outcome": "NEEDS_EVIDENCE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-036",
+    "outcome": "ESCALATE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-037",
+    "outcome": "AUTO_APPROVE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-038",
+    "outcome": "ESCALATE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-039",
+    "outcome": "NEEDS_EVIDENCE"
+  },
+  {
+    "fixture_id": "SYNTHETIC-040",
+    "outcome": "ESCALATE"
+  }
+]

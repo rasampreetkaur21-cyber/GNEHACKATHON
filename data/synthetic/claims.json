@@ -1,0 +1,702 @@
+[
+  {
+    "fixture_id": "SYNTHETIC-001",
+    "label": "SYNTHETIC",
+    "scenario": "genuine",
+    "product": "Mobile phone",
+    "serial": "SYN-1-7adfa411",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Mobile phone",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-002",
+    "label": "SYNTHETIC",
+    "scenario": "expired",
+    "product": "Mobile phone",
+    "serial": "SYN-2-9ad20e3c",
+    "purchase_date": "2023-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Mobile phone",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-003",
+    "label": "SYNTHETIC",
+    "scenario": "missing_invoice",
+    "product": "Mobile phone",
+    "serial": "SYN-3-2ea1946b",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Mobile phone",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-004",
+    "label": "SYNTHETIC",
+    "scenario": "serial_mismatch",
+    "product": "Mobile phone",
+    "serial": "SYN-4-7a391ece",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Laptop",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-005",
+    "label": "SYNTHETIC",
+    "scenario": "previous_repairs",
+    "product": "Mobile phone",
+    "serial": "SYN-5-35b997d5",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 1,
+    "registry_service_count": 1,
+    "registry_product": "Mobile phone",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-006",
+    "label": "SYNTHETIC",
+    "scenario": "conflicting_statement",
+    "product": "Mobile phone",
+    "serial": "SYN-6-bd278730",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Customer reports no previous repairs.",
+    "previous_repairs": 0,
+    "registry_service_count": 1,
+    "registry_product": "Mobile phone",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-007",
+    "label": "SYNTHETIC",
+    "scenario": "missing_evidence",
+    "product": "Mobile phone",
+    "serial": "SYN-7-cafdf0cf",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Mobile phone",
+    "registry_verified": 1,
+    "evidence_kinds": []
+  },
+  {
+    "fixture_id": "SYNTHETIC-008",
+    "label": "SYNTHETIC",
+    "scenario": "unverified_registry",
+    "product": "Mobile phone",
+    "serial": "SYN-8-3d7da7e2",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Mobile phone",
+    "registry_verified": 0,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-009",
+    "label": "SYNTHETIC",
+    "scenario": "genuine",
+    "product": "Laptop",
+    "serial": "SYN-9-d1c685d9",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Laptop stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Laptop",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-010",
+    "label": "SYNTHETIC",
+    "scenario": "expired",
+    "product": "Laptop",
+    "serial": "SYN-10-f093564",
+    "purchase_date": "2023-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Laptop stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Laptop",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-011",
+    "label": "SYNTHETIC",
+    "scenario": "missing_invoice",
+    "product": "Laptop",
+    "serial": "SYN-11-e1f08173",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Laptop stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Laptop",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-012",
+    "label": "SYNTHETIC",
+    "scenario": "serial_mismatch",
+    "product": "Laptop",
+    "serial": "SYN-12-2d745836",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Laptop stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Washing machine",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-013",
+    "label": "SYNTHETIC",
+    "scenario": "previous_repairs",
+    "product": "Laptop",
+    "serial": "SYN-13-83c2f21d",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Laptop stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 1,
+    "registry_service_count": 1,
+    "registry_product": "Laptop",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-014",
+    "label": "SYNTHETIC",
+    "scenario": "conflicting_statement",
+    "product": "Laptop",
+    "serial": "SYN-14-3ea1ccd8",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Laptop stopped working during normal use. Customer reports no previous repairs.",
+    "previous_repairs": 0,
+    "registry_service_count": 1,
+    "registry_product": "Laptop",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-015",
+    "label": "SYNTHETIC",
+    "scenario": "missing_evidence",
+    "product": "Laptop",
+    "serial": "SYN-15-e35c6a57",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Laptop stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Laptop",
+    "registry_verified": 1,
+    "evidence_kinds": []
+  },
+  {
+    "fixture_id": "SYNTHETIC-016",
+    "label": "SYNTHETIC",
+    "scenario": "unverified_registry",
+    "product": "Laptop",
+    "serial": "SYN-16-fcfe03ca",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Laptop stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Laptop",
+    "registry_verified": 0,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-017",
+    "label": "SYNTHETIC",
+    "scenario": "genuine",
+    "product": "Washing machine",
+    "serial": "SYN-17-a991a0a1",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Washing machine stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Washing machine",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-018",
+    "label": "SYNTHETIC",
+    "scenario": "expired",
+    "product": "Washing machine",
+    "serial": "SYN-18-8e8d418c",
+    "purchase_date": "2023-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Washing machine stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Washing machine",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-019",
+    "label": "SYNTHETIC",
+    "scenario": "missing_invoice",
+    "product": "Washing machine",
+    "serial": "SYN-19-28650f7b",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Washing machine stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Washing machine",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-020",
+    "label": "SYNTHETIC",
+    "scenario": "serial_mismatch",
+    "product": "Washing machine",
+    "serial": "SYN-20-10bebe9e",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Washing machine stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Air conditioner",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-021",
+    "label": "SYNTHETIC",
+    "scenario": "previous_repairs",
+    "product": "Washing machine",
+    "serial": "SYN-21-b37f9565",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Washing machine stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 1,
+    "registry_service_count": 1,
+    "registry_product": "Washing machine",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-022",
+    "label": "SYNTHETIC",
+    "scenario": "conflicting_statement",
+    "product": "Washing machine",
+    "serial": "SYN-22-c64cc780",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Washing machine stopped working during normal use. Customer reports no previous repairs.",
+    "previous_repairs": 0,
+    "registry_service_count": 1,
+    "registry_product": "Washing machine",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-023",
+    "label": "SYNTHETIC",
+    "scenario": "missing_evidence",
+    "product": "Washing machine",
+    "serial": "SYN-23-615214df",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Washing machine stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Washing machine",
+    "registry_verified": 1,
+    "evidence_kinds": []
+  },
+  {
+    "fixture_id": "SYNTHETIC-024",
+    "label": "SYNTHETIC",
+    "scenario": "unverified_registry",
+    "product": "Washing machine",
+    "serial": "SYN-24-ebb1dcb2",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Washing machine stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Washing machine",
+    "registry_verified": 0,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-025",
+    "label": "SYNTHETIC",
+    "scenario": "genuine",
+    "product": "Air conditioner",
+    "serial": "SYN-25-9fc81469",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Air conditioner stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Air conditioner",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-026",
+    "label": "SYNTHETIC",
+    "scenario": "expired",
+    "product": "Air conditioner",
+    "serial": "SYN-26-ffad2b4",
+    "purchase_date": "2023-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Air conditioner stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Air conditioner",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-027",
+    "label": "SYNTHETIC",
+    "scenario": "missing_invoice",
+    "product": "Air conditioner",
+    "serial": "SYN-27-8fb35e83",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Air conditioner stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Air conditioner",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-028",
+    "label": "SYNTHETIC",
+    "scenario": "serial_mismatch",
+    "product": "Air conditioner",
+    "serial": "SYN-28-3afdf206",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Air conditioner stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Mobile phone",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-029",
+    "label": "SYNTHETIC",
+    "scenario": "previous_repairs",
+    "product": "Air conditioner",
+    "serial": "SYN-29-c58a1ad",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Air conditioner stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 1,
+    "registry_service_count": 1,
+    "registry_product": "Air conditioner",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-030",
+    "label": "SYNTHETIC",
+    "scenario": "conflicting_statement",
+    "product": "Air conditioner",
+    "serial": "SYN-30-f73f1728",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Air conditioner stopped working during normal use. Customer reports no previous repairs.",
+    "previous_repairs": 0,
+    "registry_service_count": 1,
+    "registry_product": "Air conditioner",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-031",
+    "label": "SYNTHETIC",
+    "scenario": "missing_evidence",
+    "product": "Air conditioner",
+    "serial": "SYN-31-30c51067",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Air conditioner stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Air conditioner",
+    "registry_verified": 1,
+    "evidence_kinds": []
+  },
+  {
+    "fixture_id": "SYNTHETIC-032",
+    "label": "SYNTHETIC",
+    "scenario": "unverified_registry",
+    "product": "Air conditioner",
+    "serial": "SYN-32-d508d29a",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Air conditioner stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Air conditioner",
+    "registry_verified": 0,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-033",
+    "label": "SYNTHETIC",
+    "scenario": "genuine",
+    "product": "Mobile phone",
+    "serial": "SYN-33-22d50131",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Mobile phone",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-034",
+    "label": "SYNTHETIC",
+    "scenario": "expired",
+    "product": "Mobile phone",
+    "serial": "SYN-34-fd8288dc",
+    "purchase_date": "2023-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Mobile phone",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-035",
+    "label": "SYNTHETIC",
+    "scenario": "missing_invoice",
+    "product": "Mobile phone",
+    "serial": "SYN-35-7c138e8b",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Mobile phone",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-036",
+    "label": "SYNTHETIC",
+    "scenario": "serial_mismatch",
+    "product": "Mobile phone",
+    "serial": "SYN-36-3fcb926e",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Laptop",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-037",
+    "label": "SYNTHETIC",
+    "scenario": "previous_repairs",
+    "product": "Mobile phone",
+    "serial": "SYN-37-e2db36f5",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 1,
+    "registry_service_count": 1,
+    "registry_product": "Mobile phone",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-038",
+    "label": "SYNTHETIC",
+    "scenario": "conflicting_statement",
+    "product": "Mobile phone",
+    "serial": "SYN-38-77635bd0",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Customer reports no previous repairs.",
+    "previous_repairs": 0,
+    "registry_service_count": 1,
+    "registry_product": "Mobile phone",
+    "registry_verified": 1,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  },
+  {
+    "fixture_id": "SYNTHETIC-039",
+    "label": "SYNTHETIC",
+    "scenario": "missing_evidence",
+    "product": "Mobile phone",
+    "serial": "SYN-39-da5f7cef",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Mobile phone",
+    "registry_verified": 1,
+    "evidence_kinds": []
+  },
+  {
+    "fixture_id": "SYNTHETIC-040",
+    "label": "SYNTHETIC",
+    "scenario": "unverified_registry",
+    "product": "Mobile phone",
+    "serial": "SYN-40-92668582",
+    "purchase_date": "2026-01-15",
+    "incident_date": "2026-10-01",
+    "statement": "SYNTHETIC: Mobile phone stopped working during normal use. Please assess warranty eligibility.",
+    "previous_repairs": 0,
+    "registry_service_count": 0,
+    "registry_product": "Mobile phone",
+    "registry_verified": 0,
+    "evidence_kinds": [
+      "photo",
+      "invoice"
+    ]
+  }
+]
